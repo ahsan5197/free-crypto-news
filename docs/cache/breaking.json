@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "title": "Morgan Stanley to launch digital asset wallet as part of crypto product expansion",
+      "link": "<![CDATA[https://cointelegraph.com/news/morgan-stanley-digital-asset-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The wallet, expected to launch this year, will support cryptocurrencies and RWAs as the financial services company adds to its suite of crypto investment products.",
+      "pubDate": "2026-01-08T19:58:09.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "8m ago"
+    },
+    {
+      "title": "‘Deeply undervalued’ bitcoin faces continued bear market with no clear upside catalyst",
+      "link": "https://www.coindesk.com/markets/2026/01/08/bitcoin-may-be-in-for-a-more-boring-but-nevertheless-positive-year",
+      "description": "Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.",
+      "pubDate": "2026-01-08T19:22:26.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "44m ago"
+    },
+    {
+      "title": "Crypto Market Cools as Bitcoin Stays Within Death Cross: Analysis",
+      "link": "https://decrypt.co/354003/crypto-market-cools-bitcoin-death-cross-price-analysis",
+      "description": "The post-New Year rally fizzled fast. Bitcoin is back in death cross territory, and the charts aren't giving bulls much to celebrate.",
+      "pubDate": "2026-01-08T19:13:50.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "53m ago"
+    },
+    {
+      "title": "Ethereum scaling network Polygon close to buying bitcoin kiosk firm Coinme, sources say",
+      "link": "https://www.coindesk.com/business/2026/01/08/ethereum-scaling-network-polygon-close-to-buying-bitcoin-kiosk-firm-coinme-sources-say",
+      "description": "Polygon is paying $100 million to $125 million for the bitcoin ATM provider, according to one of the sources.",
+      "pubDate": "2026-01-08T19:07:08.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "59m ago"
+    },
+    {
       "title": "Florida Lawmakers Renew Push to Launch State Bitcoin Reserve",
       "link": "https://decrypt.co/353995/florida-lawmakers-renew-push-launch-state-bitcoin-reserve",
       "description": "Florida lawmakers introduced another bill for the creation of a strategic Bitcoin reserve, less than a year after two attempts were shelved.",
@@ -8,7 +48,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "31m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Bitcoin Extends Selloff as Investors Turn Cautious",
@@ -17,7 +57,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "33m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "JPMorgan expands blockchain goals, plans to build ‘interoperable digital money’",
@@ -27,7 +67,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "40m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Bitcoin Could Hit $2.9 Million by 2050, VanEck Says",
@@ -37,7 +77,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "48m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Coincheck to acquire digital asset manager 3iQ in $112M stock deal",
@@ -47,77 +87,18 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "52m ago"
-    },
-    {
-      "title": "BlackRock adds $900M BTC as Bitcoin long-term selling falls to 2017 lows",
-      "link": "<![CDATA[https://cointelegraph.com/news/blackrock-adds-dollar900m-btc-as-bitcoin-long-term-selling-falls-to-2017-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "BlackRock adds $900 million in Bitcoin as long-term holder selling drops to 2017 lows, pointing to early signs of BTC accumulation.",
-      "pubDate": "2026-01-08T18:05:00.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "pubDate": "2026-01-08T17:49:19.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Zcash Plunges 20% After Entire Core Team Exits Amid Dispute",
-      "link": "https://thedefiant.io/news/blockchains/zcash-plunges-20-after-entire-core-team-exits-amid-dispute",
-      "pubDate": "2026-01-08T17:44:48.000Z",
-      "source": "The Defiant",
-      "sourceKey": "defiant",
-      "category": "defi",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Trump’s Second Term Creates Rare ‘Golden Window’ for Any Crypto Policy Progress: Report",
-      "link": "https://bitcoinmagazine.com/news/td-cowen-rare-golden-window-for-crypto",
-      "description": "Bitcoin Magazine\n\nTrump’s Second Term Creates Rare ‘Golden Window’ for Any Crypto Policy Progress: Report\nTD Cowen says Trump’s second term offers a rare chance for crypto progress in 2026, with dereg",
-      "pubDate": "2026-01-08T17:39:57.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Why South Korea is struggling to decide who can issue stablecoins",
-      "link": "<![CDATA[https://cointelegraph.com/news/why-south-korea-is-struggling-to-decide-who-can-issue-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "South Korea’s stablecoin rules are stalled as regulators clash over whether banks or fintechs should issue won-backed tokens.",
-      "pubDate": "2026-01-08T17:30:00.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Google Just Overhauled Gmail With Gemini 3, Turning It Into an AI Assistant",
-      "link": "https://decrypt.co/353987/google-just-overhauled-gmail-gemini-3-ai-assistant",
-      "description": "Google integrated Gemini 3 into Gmail, transforming the inbox into an assistant with summaries, drafting tools, and new privacy controls.",
-      "pubDate": "2026-01-08T17:12:41.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 11,
+  "totalCount": 9,
   "sources": [
+    "CoinTelegraph",
+    "CoinDesk",
     "Decrypt",
     "The Defiant",
-    "CoinDesk",
-    "Bitcoin Magazine",
-    "CoinTelegraph"
+    "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-08T19:06:39.970Z",
-  "cachedAt": "2026-01-08T19:06:18.000Z",
+  "fetchedAt": "2026-01-08T20:07:02.771Z",
+  "cachedAt": "2026-01-08T20:06:47.000Z",
   "source": "failsafe-cache"
 }
