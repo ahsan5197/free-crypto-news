@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Bank of America upgrades Coinbase to 'buy' as exchange moves beyond crypto",
+      "link": "https://www.coindesk.com/markets/2026/01/08/bank-of-america-upgrades-coinbase-to-buy-as-exchange-moves-beyond-crypto",
+      "description": "Bank of America said it recommended investors buy Coinbase's stock, pointing to its new products including weekday equities trading and prediction markets.",
+      "pubDate": "2026-01-08T20:11:44.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "54m ago"
+    },
+    {
+      "title": "Morgan Stanley to launch digital asset wallet as part of crypto product expansion",
+      "link": "<![CDATA[https://cointelegraph.com/news/morgan-stanley-digital-asset-wallet-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The wallet, expected to launch this year, will support cryptocurrencies and RWAs as the financial services company adds to its suite of crypto investment products.",
+      "pubDate": "2026-01-08T19:58:09.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "‘Deeply undervalued’ bitcoin faces continued bear market with no clear upside catalyst",
+      "link": "https://www.coindesk.com/markets/2026/01/08/bitcoin-may-be-in-for-a-more-boring-but-nevertheless-positive-year",
+      "description": "Experts say the next major rally may come only when long-term holders are exhausted, and true institutional capital enters the market.",
+      "pubDate": "2026-01-08T19:22:26.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Crypto Market Cools as Bitcoin Stays Within Death Cross: Analysis",
+      "link": "https://decrypt.co/354003/crypto-market-cools-bitcoin-death-cross-price-analysis",
+      "description": "The post-New Year rally fizzled fast. Bitcoin is back in death cross territory, and the charts aren't giving bulls much to celebrate.",
+      "pubDate": "2026-01-08T19:13:50.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Ethereum scaling network Polygon close to buying bitcoin kiosk firm Coinme, sources say",
+      "link": "https://www.coindesk.com/business/2026/01/08/ethereum-scaling-network-polygon-close-to-buying-bitcoin-kiosk-firm-coinme-sources-say",
+      "description": "Polygon is paying $100 million to $125 million for the bitcoin ATM provider, according to one of the sources.",
+      "pubDate": "2026-01-08T19:07:08.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "Florida Lawmakers Renew Push to Launch State Bitcoin Reserve",
       "link": "https://decrypt.co/353995/florida-lawmakers-renew-push-launch-state-bitcoin-reserve",
       "description": "Florida lawmakers introduced another bill for the creation of a strategic Bitcoin reserve, less than a year after two attempts were shelved.",
@@ -8,7 +58,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bitcoin Extends Selloff as Investors Turn Cautious",
@@ -17,7 +67,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "JPMorgan expands blockchain goals, plans to build ‘interoperable digital money’",
@@ -27,7 +77,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bitcoin Could Hit $2.9 Million by 2050, VanEck Says",
@@ -37,7 +87,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Coincheck to acquire digital asset manager 3iQ in $112M stock deal",
@@ -47,7 +97,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "BlackRock adds $900M BTC as Bitcoin long-term selling falls to 2017 lows",
@@ -57,7 +107,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -67,7 +117,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Zcash Plunges 20% After Entire Core Team Exits Amid Dispute",
@@ -76,7 +126,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Trump’s Second Term Creates Rare ‘Golden Window’ for Any Crypto Policy Progress: Report",
@@ -86,7 +136,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Why South Korea is struggling to decide who can issue stablecoins",
@@ -96,7 +146,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Google Just Overhauled Gmail With Gemini 3, Turning It Into an AI Assistant",
@@ -106,7 +156,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "$50K or $250K? Top crypto companies are divided on Bitcoin's trajectory in 2026",
@@ -116,7 +166,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Stand With Crypto: Primary goal for 2026 is crypto market structure",
@@ -126,7 +176,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bank of America Upgrades Coinbase to &#39;Buy&#39; on Base Prospects, Tokenization Tailwinds",
@@ -136,7 +186,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "XRP ETFs see $40M of outflows after eight-week run of inflows",
@@ -146,7 +196,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bitcoin vs. gold vs. silver in 2026: How investors are repricing scarcity",
@@ -156,7 +206,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Will a Supreme Court Ruling Against Trump Cause a Bitcoin Crash?",
@@ -166,17 +216,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Privacy debate flares in crypto community days after Europe&#8217;s DAC8 tax regime takes effect",
-      "link": "https://www.theblock.co/post/384790/privacy-debate-flares-in-crypto-community-days-after-europes-dac8-tax-regime-takes-effect?utm_source=rss&amp;utm_medium=rss",
-      "description": "Europe’s new crypto tax reporting regime has taken effect, igniting a fierce debate over privacy as exchanges begin sharing user data.",
-      "pubDate": "2026-01-08T16:32:19.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Zcash governance clash tanked the token. Here's why it may not be as big as it seems.",
@@ -186,7 +226,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bitcoin bounces to $90,500 after testing key support of $89,200",
@@ -196,27 +236,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Optimism Foundation proposes monthly OP token buybacks",
-      "link": "https://www.theblock.co/post/384792/optimism-foundation-proposes-monthly-op-token-buybacks?utm_source=rss&amp;utm_medium=rss",
-      "description": "The Optimism Foundation is looking to redirect 50% of the revenue earned by Superchain for monthly over-the-counter token buybacks.",
-      "pubDate": "2026-01-08T16:16:38.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "3h ago"
-    },
-    {
-      "title": "Monero retakes privacy crown as Zcash turmoil rattles rally",
-      "link": "https://www.theblock.co/post/384785/monero-retakes-privacy-crown-as-zcash-turmoil-rattles-rally?utm_source=rss&amp;utm_medium=rss",
-      "description": "Recent governance turmoil at Zcash has resurfaced questions about development continuity, tempering confidence after the token’s strong Q4.",
-      "pubDate": "2026-01-08T16:11:02.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Ethereum is the Linux of blockchain, says co-founder Vitalik Buterin",
@@ -226,7 +246,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bitcoin on Exchanges Can Be Legally Seized in South Korea, Supreme Court Affirms",
@@ -236,7 +256,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Crypto for Advisors: 2026: Crypto and Beyond",
@@ -246,7 +266,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Polygon Labs unveils ‘Open Money Stack’ to power borderless stablecoin payments",
@@ -256,7 +276,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Zcash governance in turmoil: How low can ZEC price go?",
@@ -266,7 +286,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Bitcoin trader maintains $76K BTC price target as 2026 comeback fizzles",
@@ -276,7 +296,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Optimism proposes OP token buybacks using 50% of superchain revenue",
@@ -286,7 +306,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "JPMorgan says the crypto selloff may be nearing a bottom as ETF outflows ease",
@@ -296,7 +316,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Polymarket user who won $400K on Maduro ouster bet quietly disappears",
@@ -306,7 +326,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Zcash backer Bootstrap says split due to clash over nonprofit rules, Zashi future",
@@ -316,17 +336,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Coincheck signs $112 million stock purchase agreement for majority stake in digital asset manager 3iQ",
-      "link": "https://www.theblock.co/post/384772/coincheck-3iq-stake?utm_source=rss&amp;utm_medium=rss",
-      "description": "The deal is expected to close in Q2 2026 and could give Coincheck ownership of 3iQ’s regulated crypto ETFs and fund platforms.",
-      "pubDate": "2026-01-08T14:26:45.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Florida Revives Bitcoin Reserve Push With New 2026 Bill",
@@ -336,7 +346,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Digital Finance Will Evolve Into ‘Foundational Infrastructure Layer’ in 2026: Moody’s",
@@ -346,7 +356,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "CoinDesk 20 Performance Update: Ripple (XRP) Drops 4.5% as Nearly All Assets Decline",
@@ -356,7 +366,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Tokenized Brazilian credit card debt offers 13% yield through BlackOpal's GemStone platform",
@@ -366,7 +376,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Stand With Crypto advocacy group sees nearly 700,000 new members ahead of 2026 election",
@@ -376,7 +386,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Nvidia’s Vera Rubin keeps crypto networks like Render in demand",
@@ -386,7 +396,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Digital assets to move from speculation to infrastructure in 2026, B. Riley says",
@@ -396,7 +406,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "China’s interest-bearing digital yuan piles pressure on US stablecoin rules",
@@ -406,7 +416,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Morning Minute: The Institutions Aren’t Coming—They’re Here",
@@ -416,7 +426,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Crypto Liquidations Top $477M as Bitcoin Slips Below $90K",
@@ -426,7 +436,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Florida narrows scope of revived Bitcoin reserve proposal for 2026",
@@ -436,7 +446,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Zcash Plunges Double Digits After ECC Team ‘Constructively Discharged’",
@@ -446,17 +456,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Crypto crime topped $150 billion in 2025 as state-backed actors scaled onchain: Chainalysis",
-      "link": "https://www.theblock.co/post/384753/crypto-crime-150-billion-usd-2025-state-actors-scale-onchain-chainalysis?utm_source=rss&amp;utm_medium=rss",
-      "description": "Chainalysis reported crypto crime hit $154 billion in 2025, driven by state-linked hacking, sanctions evasion and stablecoin-based laundering.",
-      "pubDate": "2026-01-08T13:00:00.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Crypto Crime Soared to $154 Billion in 2025 as Russia, North Korea, and Iran Exploit Blockchain Tech",
@@ -466,17 +466,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Bitcoin slips back below $90,000 after early-2026 rally fades",
-      "link": "https://www.theblock.co/post/384756/bitcoin-90000-usd-early-2026-rally-fades?utm_source=rss&amp;utm_medium=rss",
-      "description": "Analysts point to overhead resistance, cautious derivatives positioning, and lingering internal fatigue as catalysts.",
-      "pubDate": "2026-01-08T12:58:34.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "BNB falls below $885 as broader market pulls back and treasury tensions emerge",
@@ -486,7 +476,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Florida revives push for bitcoin reserve with new 2026 bill",
@@ -496,10 +486,20 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
+    },
+    {
+      "title": "Binance expands into precious metals with gold, silver futures settled in USDT",
+      "link": "<![CDATA[https://cointelegraph.com/news/binance-gold-silver-perps-usdt-tradfi-settlement-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Binance launched gold and silver perpetual futures settled in USDT, expanding crypto-denominated access to precious metals markets.",
+      "pubDate": "2026-01-08T12:32:48.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "8h ago"
     }
   ],
-  "totalCount": 219,
+  "totalCount": 220,
   "sources": [
     "CoinDesk",
     "The Block",
@@ -509,7 +509,7 @@
     "Blockworks",
     "The Defiant"
   ],
-  "fetchedAt": "2026-01-08T20:06:53.829Z",
-  "cachedAt": "2026-01-08T20:06:47.000Z",
+  "fetchedAt": "2026-01-08T21:06:19.369Z",
+  "cachedAt": "2026-01-08T21:06:13.000Z",
   "source": "failsafe-cache"
 }
