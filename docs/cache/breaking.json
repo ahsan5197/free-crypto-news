@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Grayscale forms trusts tied to potential BNB and HYPE ETFs",
+      "link": "<![CDATA[https://cointelegraph.com/news/grayscale-bnb-hype-etf-delaware-trusts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Grayscale registered Delaware trusts linked to potential BNB and HYPE ETPs, an early step that often precedes but does not guarantee ETF filings.",
+      "pubDate": "2026-01-09T11:57:44.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "12m ago"
+    },
+    {
+      "title": "Bitcoin holds near $90,000 as trading volumes shrink, altcoins diverge: Crypto Markets Today",
+      "link": "https://www.coindesk.com/markets/2026/01/09/bitcoin-holds-near-usd90-000-as-trading-volumes-shrink-altcoins-diverge-crypto-markets-today",
+      "description": "Bitcoin remained near $90,000 as trading volumes fell. Thin liquidity fueled choppy price action across major cryptocurrencies, while altcoins were mixed.",
+      "pubDate": "2026-01-09T11:37:14.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "33m ago"
+    },
+    {
+      "title": "Crypto&#8217;s next phase goes beyond new blockchains, a16z says",
+      "link": "https://www.theblock.co/post/384892/crypto-future-beyond-blockchains-a16z?utm_source=rss&amp;utm_medium=rss",
+      "description": "Andreessen Horowitz’s crypto arm said prediction markets, verifiable computing and “staked media” will push crypto beyond blockchains in 2026.",
+      "pubDate": "2026-01-09T11:28:58.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "41m ago"
+    },
+    {
+      "title": "South Korea to flip bitcoin ETF stance as part of broader crypto push",
+      "link": "https://www.coindesk.com/policy/2026/01/09/south-korea-to-flip-bitcoin-etf-stance-as-part-of-broader-crypto-push",
+      "description": "A new Digital Asset Act will regulate stablecoins, requiring 100% reserve backing and user redemption rights.",
+      "pubDate": "2026-01-09T11:23:11.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "47m ago"
+    },
+    {
+      "title": "Vitalik Buterin condemns criminalization of code in appeal for Tornado Cash developer",
+      "link": "https://www.theblock.co/post/384886/vitalik-buterin-tornado-cash-developer-appeal?utm_source=rss&amp;utm_medium=rss",
+      "description": "Ethereum co-founder Vitalik Buterin backs Tornado Cash developer Roman Storm as his legal defense fund surpasses $6 million.",
+      "pubDate": "2026-01-09T10:56:51.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "Zcash sees developer slowdown as ZEC extends two-month slide",
       "link": "<![CDATA[https://cointelegraph.com/news/zcash-developer-activity-2021-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "Zcash developer activity has fallen to its lowest level since 2021 as a governance dispute weighs on sentiment and ZEC extends a two-month decline.",
@@ -8,7 +58,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "11m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Vulnerability found in Babylon staking code could slow block production",
@@ -18,24 +68,16 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "52m ago"
-    },
-    {
-      "title": "Bitcoin and Ether ETFs shed over $1B as early 2026 inflows reverse",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-ether-etf-outflows-january-2026-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "After a brief January rebound, US spot Bitcoin and Ether ETFs saw heavy redemptions, extending a cautious trend that began after October’s market reset.",
-      "pubDate": "2026-01-09T09:34:49.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 3,
+  "totalCount": 7,
   "sources": [
-    "CoinTelegraph"
+    "CoinTelegraph",
+    "CoinDesk",
+    "The Block"
   ],
-  "fetchedAt": "2026-01-09T11:06:23.937Z",
-  "cachedAt": "2026-01-09T11:06:03.000Z",
+  "fetchedAt": "2026-01-09T12:10:33.963Z",
+  "cachedAt": "2026-01-09T12:10:15.000Z",
   "source": "failsafe-cache"
 }
