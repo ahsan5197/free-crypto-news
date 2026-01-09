@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "title": "Tether said to have invested up to $50 million in crypto lender Ledn at $500 million valuation",
+      "link": "https://www.coindesk.com/business/2026/01/09/tether-said-to-have-invested-up-to-usd50-million-in-crypto-lender-ledn-at-usd500-million-valuation",
+      "description": "The stablecoin issuer’s previously undisclosed investment valued the lender at about $500 million, according to a person familiar with the transaction.",
+      "pubDate": "2026-01-09T15:02:54.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "3m ago"
+    },
+    {
+      "title": "This Investor Thinks the United States Could Start Buying Bitcoin in 2026",
+      "link": "https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin",
+      "description": "Bitcoin Magazine\n\nThis Investor Thinks the United States Could Start Buying Bitcoin in 2026\nCathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond ",
+      "pubDate": "2026-01-09T14:54:59.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "11m ago"
+    },
+    {
+      "title": "Registered crypto companies must reapply for approval, UK regulator says",
+      "link": "https://www.coindesk.com/policy/2026/01/09/registered-crypto-companies-must-reapply-for-approval-uk-regulator-says",
+      "description": "The FCA said firms wishing to undertake crypto-related activity will be need to be authorized when a new regime starts in October 2027.",
+      "pubDate": "2026-01-09T14:31:34.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "35m ago"
+    },
+    {
+      "title": "South Korea Preparing to Approve Spot Bitcoin ETFs in Crypto Policy Pivot",
+      "link": "https://bitcoinmagazine.com/news/south-korea-to-approve-spot-bitcoin-etfs",
+      "description": "Bitcoin Magazine\n\nSouth Korea Preparing to Approve Spot Bitcoin ETFs in Crypto Policy Pivot\nSouth Korea is moving to approve spot bitcoin ETFs this year as part of a broader crypto policy shift that p",
+      "pubDate": "2026-01-09T14:31:09.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "35m ago"
+    },
+    {
+      "title": "CoinDesk 20 Performance Update: Index Trades Flat as Polygon Gains 11.2%",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/01/09/coindesk-20-performance-update-index-trades-flat-as-polygon-gains-11-2",
+      "description": "Polkadot (DOT) dropped 1.4% and Ripple (XRP) fell 0.9% from Thursday.",
+      "pubDate": "2026-01-09T14:09:55.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
+      "title": "Vexl: Empowering Peer-to-Peer Bitcoin Exchange Through Social Networks",
+      "link": "https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks",
+      "description": "Bitcoin Magazine\n\nVexl: Empowering Peer-to-Peer Bitcoin Exchange Through Social Networks\nCEO Viliam Klamarcik explains how Vexl's web-of-trust model and end-to-end encryption prioritize privacy in pee",
+      "pubDate": "2026-01-09T14:09:00.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "57m ago"
+    },
+    {
       "title": "Bitcoin RSI hints at $105K BTC price rebound as bull signals multiply",
       "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-rsi-bull-signals-multiply-price-battles-90k-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "Bitcoin RSI flipped bullish on several timeframes, leading one trader to a $105,000 BTC price target within \"three to four weeks.\"",
@@ -8,7 +68,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "23m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "U.S. added 50,000 jobs in December as unemployment rate fell to 4.4%",
@@ -18,7 +78,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "30m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Rain valuation nears $2 billion after $250 million Series C raise for stablecoin payments firm",
@@ -28,7 +88,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "37m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Ripple scores UK regulatory approval via local subsidiary",
@@ -38,7 +98,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "43m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Bitcoin’s ‘time-based capitulation’ nears 50 days, echoing conditions prior to 2025 surge",
@@ -48,96 +108,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "57m ago"
-    },
-    {
-      "title": "Sharplink pockets $33M from Ether staking, deploys another $170M ETH",
-      "link": "<![CDATA[https://cointelegraph.com/news/sharplink-33m-ether-staking-170m-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Corporate crypto treasuries are increasingly turning to Ether staking, as companies like SharpLink generate recurring yield from onchain operations.",
-      "pubDate": "2026-01-09T12:59:29.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "UK FCA signals September 2026 opening for crypto licensing gateway",
-      "link": "https://www.theblock.co/post/384907/uk-fca-september-crypto-licensing-gateway?utm_source=rss&amp;utm_medium=rss",
-      "description": "The UK Financial Conduct Authority expects that its crypto licensing application period will open in September ahead of a new regime.",
-      "pubDate": "2026-01-09T12:48:23.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "pubDate": "2026-01-09T12:46:08.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Toncoin drops, falls through key support levels in technical breakdown",
-      "link": "https://www.coindesk.com/markets/2026/01/09/toncoin-drops-falls-through-key-support-levels-in-technical-breakdown",
-      "description": "The decline was accompanied by a spike in volume, suggesting large-holder or institutional activity, and analysts see a risk of continued pressure.",
-      "pubDate": "2026-01-09T12:45:20.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Visa-linked stablecoin platform Rain raises $250M at $1.95B valuation",
-      "link": "<![CDATA[https://cointelegraph.com/news/rain-stablecoin-platform-visa-member-250-million-raise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The raise values Rain at $1.95 billion after 30-fold card growth in 2025, with the Visa-linked platform planning expansion across multiple continents.",
-      "pubDate": "2026-01-09T12:37:46.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Ripple wins UK regulatory approval from Financial Conduct Authority",
-      "link": "https://www.coindesk.com/policy/2026/01/09/ripple-wins-uk-regulatory-approval-from-financial-conduct-authority",
-      "description": "Ripple has gained FCA registration through its U.K. subsidiary, marking a key regulatory milestone as Britain moves to bring crypto into its financial framework.",
-      "pubDate": "2026-01-09T12:26:22.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "The hidden risk of public WiFi: How a single approval wiped a crypto wallet",
-      "link": "<![CDATA[https://cointelegraph.com/news/the-hidden-risk-of-public-wifi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "A crypto user who lost $5,000 from a hot wallet after a stay at a hotel said the real culprits were open WiFi, a casual lobby phone call and one careless wallet approval.",
-      "pubDate": "2026-01-09T12:22:40.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. jobs data, tariffs ruling suggest volatile Friday: Crypto Daybook Americas",
-      "link": "https://www.coindesk.com/daybook-us/2026/01/09/u-s-jobs-data-tariffs-ruling-suggest-volatile-friday-crypto-daybook-americas",
-      "description": "Your day-ahead look for Jan. 9, 2026",
-      "pubDate": "2026-01-09T12:15:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 13,
+  "totalCount": 11,
   "sources": [
-    "CoinTelegraph",
     "CoinDesk",
+    "Bitcoin Magazine",
+    "CoinTelegraph",
     "The Block"
   ],
-  "fetchedAt": "2026-01-09T14:07:26.701Z",
-  "cachedAt": "2026-01-09T14:07:03.000Z",
+  "fetchedAt": "2026-01-09T15:06:38.784Z",
+  "cachedAt": "2026-01-09T15:06:23.000Z",
   "source": "failsafe-cache"
 }
