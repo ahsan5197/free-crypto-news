@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Bitcoin tests key support as bulls reset to prepare for futures-led rally to $101.5K",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-tests-key-support-as-bulls-reset-to-prepare-for-futures-led-rally-to-dollar101-5k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Bitcoin traders’ risk sentiment turned bullish, with the proof being in this week’s futures-led advance to $95,000. Will bulls make another attempt after retesting a key underlying support level?",
+      "pubDate": "2026-01-09T22:09:21.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
       "title": "Bitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record",
       "link": "https://bitcoinmagazine.com/news/bitcoin-whales-keep-buying-bitcoin",
       "description": "Bitcoin Magazine\n\nBitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record\nBitcoin whale accumulation hit a record high as 100+ BTC addresses surged, even as bitcoin consolidates near $90,000 a",
@@ -8,7 +18,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "19m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Nasdaq, CME Group join forces to launch Nasdaq-CME Crypto Index",
@@ -18,7 +28,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "25m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Should Politicians Be Able to Use Prediction Markets? House Bill Proposes Ban",
@@ -28,7 +38,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "29m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Colombia advances crypto tax rules as global reporting standards take shape",
@@ -38,7 +48,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "30m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Senate Republicans race toward crypto vote on bill with uncertain Democratic buy-in",
@@ -48,77 +58,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "57m ago"
-    },
-    {
-      "title": "US lawmakers demand ethics safeguards for market structure bill: Report",
-      "link": "<![CDATA[https://cointelegraph.com/news/market-structure-bill-conflict-interest-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Democratic leaders on key committees considering crypto market structure legislation are reportedly drawing a line in the sand over elected officials profiting off the industry.",
-      "pubDate": "2026-01-09T21:04:01.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash",
-      "link": "<![CDATA[https://cointelegraph.com/news/wall-street-banks-crypto-etfs-tokenized-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Big banks aren’t debating crypto anymore — they’re building it. From tokenized cash to ETFs, Wall Street is quietly going onchain.",
-      "pubDate": "2026-01-09T21:00:00.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Insiders Say DeepSeek V4 Will Beat Claude and ChatGPT at Coding, Launch Within Weeks",
-      "link": "https://decrypt.co/354177/insiders-say-deepseek-v4-beat-claude-chatgpt-coding-launching-weeks",
-      "description": "DeepSeek's upcoming V4 model could outperform Claude and ChatGPT in coding tasks, according to insiders—with its purported release nearing.",
-      "pubDate": "2026-01-09T20:52:34.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "&#39;Baldur&#39;s Gate 3&#39; Game Studio Says &#39;Divinity&#39; Won&#39;t Include AI-Generated Art",
-      "link": "https://decrypt.co/354154/baldurs-gate-3-game-studio-says-divinity-wont-include-ai-generated-art",
-      "description": "Larian Studios head Swen Vincke said the upcoming RPG Divinity will not use generative AI art, though the studio still sees benefits to the tech.",
-      "pubDate": "2026-01-09T20:31:02.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "CLARITY Act hinges on bipartisan support, and here are the numbers: Analyst",
-      "link": "<![CDATA[https://cointelegraph.com/news/clarity-act-hinges-bipartisan-support-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The crypto market structure bill is unlikely to come up for a second vote in 2026 if it fails to pass in a vote next week, analyst Alex Thorn said.",
-      "pubDate": "2026-01-09T20:23:33.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here&#39;s Why",
-      "link": "https://decrypt.co/354168/bitcoin-price-could-surge-53-million-2050-vaneck-heres-why",
-      "description": "Could Bitcoin be worth more than $50 million per coin in 24 years? VanEck just put out its most bullish price prediction yet.",
-      "pubDate": "2026-01-09T20:13:38.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 11,
+  "totalCount": 6,
   "sources": [
-    "Bitcoin Magazine",
     "CoinTelegraph",
+    "Bitcoin Magazine",
     "Decrypt",
     "CoinDesk"
   ],
-  "fetchedAt": "2026-01-09T22:06:00.804Z",
-  "cachedAt": "2026-01-09T22:05:48.000Z",
+  "fetchedAt": "2026-01-09T23:05:53.799Z",
+  "cachedAt": "2026-01-09T23:05:42.000Z",
   "source": "failsafe-cache"
 }
