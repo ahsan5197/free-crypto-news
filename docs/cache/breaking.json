@@ -1,13 +1,53 @@
 {
   "articles": [
     {
+      "title": "Crypto exchange OKX cuts institutional staff amid global restructuring",
+      "link": "https://www.coindesk.com/business/2026/01/09/crypto-exchange-okx-cuts-institutional-staff-amid-global-restructuring",
+      "description": "The exchange has overhauled its institutional business as part of a broader restructuring, with approximately one-third of its sales team exiting, according to one source.",
+      "pubDate": "2026-01-09T16:45:40.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "22m ago"
+    },
+    {
+      "title": "Ethereum co-founder reiterates support for Roman Storm, citing privacy",
+      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-buterin-support-roman-storm-privacy-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The Tornado Cash developer was found guilty of operating an unlicensed transmitter business in August and could still be retried on two counts on which a jury deadlocked.",
+      "pubDate": "2026-01-09T16:33:24.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "35m ago"
+    },
+    {
+      "title": "Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy &#39;Essential Protection&#39;",
+      "link": "https://decrypt.co/354121/ethereum-founder-vitalik-buterin-backs-convicted-dev-privacy-essential-protection",
+      "description": "Ethereum co-founder Vitalik Buterin publicly backed convicted Tornado Cash developer Roman Storm, calling privacy tools a human right.",
+      "pubDate": "2026-01-09T16:31:37.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "36m ago"
+    },
+    {
+      "title": "Security expert Bruce Schneier ‘guarantees’ governments are bulk spying with AI",
+      "link": "<![CDATA[https://cointelegraph.com/news/security-expert-bruce-schneier-guarantees-governments-are-bulk-spying-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "From PRISM to AI, mass surveillance has only grown more powerful. Bruce Schneier warns the post-Snowden world may be entering an even darker phase.",
+      "pubDate": "2026-01-09T16:16:15.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "52m ago"
+    },
+    {
       "title": "How Stablecoins Are Rewiring Global Payments | Borderless CPO Alex Garn",
       "link": "https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn",
       "pubDate": "2026-01-09T15:50:56.000Z",
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "16m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Ripple Gets Green Light From FCA to Scale Crypto Payments in the UK",
@@ -17,7 +57,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "18m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Altcoins Defy Bitcoin Slump as XRP, Solana Notch Double-Digit Gains",
@@ -27,88 +67,17 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "55m ago"
-    },
-    {
-      "title": "Bitcoin price clings to $90K as traders eye US Supreme Court tariff ruling",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-price-clings-90k-traders-us-supreme-court-tariff-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin traders avoided taking positions amid sideways BTC price action, while markets waited for a decision on US trade tariffs by the Supreme Court.",
-      "pubDate": "2026-01-09T15:07:10.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Tether said to have invested up to $50 million in crypto lender Ledn at $500 million valuation",
-      "link": "https://www.coindesk.com/business/2026/01/09/tether-said-to-have-invested-up-to-usd50-million-in-crypto-lender-ledn-at-usd500-million-valuation",
-      "description": "The stablecoin issuer’s previously undisclosed investment valued the lender at about $500 million, according to a person familiar with the transaction.",
-      "pubDate": "2026-01-09T15:02:54.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "This Investor Thinks the United States Could Start Buying Bitcoin in 2026",
-      "link": "https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin",
-      "description": "Bitcoin Magazine\n\nThis Investor Thinks the United States Could Start Buying Bitcoin in 2026\nCathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond ",
-      "pubDate": "2026-01-09T14:54:59.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Registered crypto companies must reapply for approval, UK regulator says",
-      "link": "https://www.coindesk.com/policy/2026/01/09/registered-crypto-companies-must-reapply-for-approval-uk-regulator-says",
-      "description": "The FCA said firms wishing to undertake crypto-related activity will be need to be authorized when a new regime starts in October 2027.",
-      "pubDate": "2026-01-09T14:31:34.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "South Korea Preparing to Approve Spot Bitcoin ETFs in Crypto Policy Pivot",
-      "link": "https://bitcoinmagazine.com/news/south-korea-to-approve-spot-bitcoin-etfs",
-      "description": "Bitcoin Magazine\n\nSouth Korea Preparing to Approve Spot Bitcoin ETFs in Crypto Policy Pivot\nSouth Korea is moving to approve spot bitcoin ETFs this year as part of a broader crypto policy shift that p",
-      "pubDate": "2026-01-09T14:31:09.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Index Trades Flat as Polygon Gains 11.2%",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/01/09/coindesk-20-performance-update-index-trades-flat-as-polygon-gains-11-2",
-      "description": "Polkadot (DOT) dropped 1.4% and Ripple (XRP) fell 0.9% from Thursday.",
-      "pubDate": "2026-01-09T14:09:55.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Vexl: Empowering Peer-to-Peer Bitcoin Exchange Through Social Networks",
-      "link": "https://bitcoinmagazine.com/business/vexl-empowering-peer-to-peer-bitcoin-exchange-through-social-networks",
-      "description": "Bitcoin Magazine\n\nVexl: Empowering Peer-to-Peer Bitcoin Exchange Through Social Networks\nCEO Viliam Klamarcik explains how Vexl's web-of-trust model and end-to-end encryption prioritize privacy in pee",
-      "pubDate": "2026-01-09T14:09:00.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 10,
+  "totalCount": 7,
   "sources": [
-    "The Defiant",
-    "Decrypt",
-    "CoinTelegraph",
     "CoinDesk",
-    "Bitcoin Magazine"
+    "CoinTelegraph",
+    "Decrypt",
+    "The Defiant"
   ],
-  "fetchedAt": "2026-01-09T16:07:23.199Z",
-  "cachedAt": "2026-01-09T16:07:08.000Z",
+  "fetchedAt": "2026-01-09T17:08:29.868Z",
+  "cachedAt": "2026-01-09T17:08:14.000Z",
   "source": "failsafe-cache"
 }
