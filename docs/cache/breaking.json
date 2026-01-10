@@ -7,7 +7,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "45m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec",
@@ -17,24 +17,15 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "47m ago"
-    },
-    {
-      "title": "Memecoin Market Cratered More Than 60% in 2025: Report",
-      "link": "https://thedefiant.io/news/research-and-opinion/memecoin-market-cratered-more-than-60-in-2025-report",
-      "pubDate": "2026-01-10T00:32:50.000Z",
-      "source": "The Defiant",
-      "sourceKey": "defiant",
-      "category": "defi",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 3,
+  "totalCount": 2,
   "sources": [
     "The Defiant",
     "CoinTelegraph"
   ],
-  "fetchedAt": "2026-01-10T01:34:31.572Z",
-  "cachedAt": "2026-01-10T01:34:18.000Z",
+  "fetchedAt": "2026-01-10T02:39:10.278Z",
+  "cachedAt": "2026-01-10T02:38:58.000Z",
   "source": "failsafe-cache"
 }
