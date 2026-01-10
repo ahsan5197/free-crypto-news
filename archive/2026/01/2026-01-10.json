@@ -1,8 +1,98 @@
 {
   "date": "2026-01-10",
-  "fetchedAt": "2026-01-10T12:12:04.000Z",
+  "fetchedAt": "2026-01-10T18:10:15.000Z",
   "articleCount": 50,
   "articles": [
+    {
+      "title": "Bitfinex whales dump BTC longs as $135K Bitcoin price target reemerges",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitfinex-whales-dump-btc-longs-135k-bitcoin-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Bitcoin whales began repeating a classic bull signal as they took BTC long positions off the table after a year of declining overall market exposure.",
+      "pubDate": "2026-01-10T17:13:28.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
+      "title": "The Senate moves toward a market structure vote: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/01/10/the-senate-moves-toward-a-market-structure-vote-state-of-crypto",
+      "description": "Lawmakers will (finally) vote on a market structure bill next week.",
+      "pubDate": "2026-01-10T17:00:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Tennessee orders Kalshi, Polymarket and Crypto.com to cease sports betting contracts",
+      "link": "https://www.coindesk.com/policy/2026/01/10/tennessee-orders-kalshi-polymarket-and-crypto-com-to-cease-sports-betting-contracts",
+      "description": "The firms, federally regulated by the CFTC, were told to shut down Tennessee-based activity, refund deposits, and void open contracts by Jan. 31.",
+      "pubDate": "2026-01-10T16:51:02.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Brazilian exchange Mercado Bitcoin outlines 6 crypto trends shaping markets in 2026",
+      "link": "https://www.coindesk.com/business/2026/01/10/brazilian-exchange-mercado-bitcoin-outlines-6-crypto-trends-shaping-markets-in-2026",
+      "description": "The stablecoin sector is expected to grow to $500 billion, while altcoin ETFs are projected to reach $10 billion, driven by regulatory clarity and adoption.",
+      "pubDate": "2026-01-10T15:31:54.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Institutions know a “good” exchange is built for failure",
+      "link": "https://www.coindesk.com/opinion/2026/01/10/institutions-know-a-good-exchange-is-built-for-failure",
+      "description": "A platform's onboarding polish should not be confused for its ability to execute trades and handle immense volumes, argues Bridgeport co-founder and CCO Chris Soriano.",
+      "pubDate": "2026-01-10T15:00:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "3h ago"
+    },
+    {
+      "title": "Hundreds of wealthy investors are using crypto to buy real estate in Europe",
+      "link": "https://www.coindesk.com/business/2026/01/09/hundreds-of-wealthy-investors-are-using-crypto-to-buy-real-estate-in-europe",
+      "description": "Brighty co-founder Nikolay Denisenko, a former lead backend engineer at Revolut, says his startup has brokered over 100 deals for HNWIs to buy apartments in Europe.",
+      "pubDate": "2026-01-10T14:00:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "pubDate": "2026-01-10T12:58:32.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Betterment urges users to ignore ‘unauthorized’ crypto promotion message",
+      "link": "<![CDATA[https://cointelegraph.com/news/betterment-fake-crypto-promotion-triple-returns-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The message claimed Betterment would “triple” Bitcoin and Ether deposits sent within hours, urging users to transfer $10,000 to crypto wallets.",
+      "pubDate": "2026-01-10T12:42:39.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Spot Bitcoin ETFs lose $681M in first week of 2026 as risk appetite fades",
+      "link": "<![CDATA[https://cointelegraph.com/news/spot-bitcoin-etfs-lose-681m-first-week-2026-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Spot Bitcoin ETFs reversed early inflows in 2026 and posted four straight days of outflows as fading rate-cut hopes and rising geopolitical risks pushed investors into risk-off positioning.",
+      "pubDate": "2026-01-10T09:12:11.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "8h ago"
+    },
     {
       "title": "Pump.fun says creator fees ‘may have skewed’ incentives, plans revamp",
       "link": "<![CDATA[https://cointelegraph.com/news/pumpfun-revamps-creator-fees-fee-sharing-cto-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
@@ -11,7 +101,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "Anti-DeFi group runs ads urging public to pressure Senators on crypto bill: Report",
@@ -21,7 +111,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "12h ago"
     },
     {
       "title": "Asset manager VanEck explains how one bitcoin could be worth $2.9 million by 2050",
@@ -31,7 +121,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "12h ago"
     },
     {
       "title": "A16z raises $15B, says crypto a 'key' to America winning next 100 years",
@@ -41,7 +131,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "A16z Crypto Shares Three Crypto Predictions for 2026",
@@ -50,7 +140,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "11h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Stablecoin card adoption will be a 'big theme' of 2026: Dragonfly exec",
@@ -60,7 +150,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "11h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Memecoin Market Cratered More Than 60% in 2025: Report",
@@ -69,7 +159,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "11h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Bitcoin tests key support as bulls reset to prepare for futures-led rally to $101.5K",
@@ -79,7 +169,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Bitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record",
@@ -89,7 +179,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "14h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Nasdaq, CME Group join forces to launch Nasdaq-CME Crypto Index",
@@ -99,7 +189,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Should Politicians Be Able to Use Prediction Markets? House Bill Proposes Ban",
@@ -109,7 +199,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Colombia advances crypto tax rules as global reporting standards take shape",
@@ -119,7 +209,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Senate Republicans race toward crypto vote on bill with uncertain Democratic buy-in",
@@ -129,7 +219,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "US lawmakers demand ethics safeguards for market structure bill: Report",
@@ -139,7 +229,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Wall Street’s crypto debate is over as banks go all-in on BTC, stablecoins, tokenized cash",
@@ -149,7 +239,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Insiders Say DeepSeek V4 Will Beat Claude and ChatGPT at Coding, Launch Within Weeks",
@@ -159,7 +249,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "&#39;Baldur&#39;s Gate 3&#39; Game Studio Says &#39;Divinity&#39; Won&#39;t Include AI-Generated Art",
@@ -169,7 +259,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "CLARITY Act hinges on bipartisan support, and here are the numbers: Analyst",
@@ -179,7 +269,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Bitcoin Price Could Surge to $53 Million by 2050, Says VanEck—Here&#39;s Why",
@@ -189,7 +279,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Bitcoin pulls back to $90,000 as early Friday rally attempt fails",
@@ -199,7 +289,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Crypto crowd could still walk away from U.S. market structure bill if DeFi needs unmet",
@@ -209,7 +299,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Crypto Markets Edge Lower After US Jobs Miss Expectations",
@@ -218,7 +308,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "US lawmaker's bill would ban politically related prediction bets after Maduro wager",
@@ -228,7 +318,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Trading bots gain traction as crypto markets move sideways: HTX 2025 recap",
@@ -238,7 +328,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "World's largest custodial bank BNY to offer tokenized deposits for institutional investors",
@@ -248,17 +338,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "pubDate": "2026-01-09T19:32:00.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Polygon Leads Altcoin Surge With 15% Rally",
@@ -267,7 +347,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "16h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters",
@@ -277,7 +357,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "Pump.fun overhauls creator fees as token launches hit highest daily count since September",
@@ -287,7 +367,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "Bitcoin holds $90K as ETFs wobble and institutions reposition: Finance Redefined",
@@ -297,7 +377,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more",
@@ -307,7 +387,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "Truebit Hack Wipes Out TRU in First Major Exploit of 2026",
@@ -316,7 +396,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "Bitcoin’s next super rally could depend on this key data point",
@@ -326,7 +406,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "Crypto VC Giant Andreessen Horowitz Raises $15 Billion to Help America &#39;Win&#39; Tech Race",
@@ -336,7 +416,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "BNY Debuts Tokenized Deposits for Institutions and &#39;Digital Natives&#39;",
@@ -346,7 +426,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "Price predictions 1/9: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, BCH, LINK, HYPE",
@@ -356,7 +436,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
@@ -366,7 +446,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "BNY launches tokenized deposits amid TradFi rush into blockchain and crypto",
@@ -376,7 +456,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "Crypto exchange OKX cuts institutional staff amid global restructuring",
@@ -386,7 +466,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "Ex-House Speaker Nancy Pelosi, other Democrats back bill to ban elected officials from political prediction market bets",
@@ -396,7 +476,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "Ethereum co-founder reiterates support for Roman Storm, citing privacy",
@@ -406,7 +486,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "yesterday"
     },
     {
       "title": "Ethereum Founder Vitalik Buterin Backs Convicted Dev, Calls Privacy &#39;Essential Protection&#39;",
@@ -416,86 +496,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "19h ago"
-    },
-    {
-      "title": "Security expert Bruce Schneier ‘guarantees’ governments are bulk spying with AI",
-      "link": "<![CDATA[https://cointelegraph.com/news/security-expert-bruce-schneier-guarantees-governments-are-bulk-spying-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "From PRISM to AI, mass surveillance has only grown more powerful. Bruce Schneier warns the post-Snowden world may be entering an even darker phase.",
-      "pubDate": "2026-01-09T16:16:15.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "19h ago"
-    },
-    {
-      "title": "How Stablecoins Are Rewiring Global Payments | Borderless CPO Alex Garn",
-      "link": "https://thedefiant.io/podcasts-and-videos/podcast/how-stablecoins-are-rewiring-global-payments-or-borderless-cpo-alex-garn",
-      "pubDate": "2026-01-09T15:50:56.000Z",
-      "source": "The Defiant",
-      "sourceKey": "defiant",
-      "category": "defi",
-      "timeAgo": "20h ago"
-    },
-    {
-      "title": "Ripple Gets Green Light From FCA to Scale Crypto Payments in the UK",
-      "link": "https://decrypt.co/354118/ripple-gets-green-light-fca-scale-crypto-payments-uk",
-      "description": "Ripple secured regulatory approval to scale its payments business from the UK's Financial Conduct Authority (FCA).",
-      "pubDate": "2026-01-09T15:48:52.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "20h ago"
-    },
-    {
-      "title": "Ripple secures FCA authorization, clearing path for UK expansion",
-      "link": "https://www.theblock.co/post/384953/ripple-secures-fca-authorization-clearing-path-uk-expansion?utm_source=rss&amp;utm_medium=rss",
-      "description": "Ripple has secured approval from the UK’s top financial regulator, clearing the way for an expansion of its platform in the country.",
-      "pubDate": "2026-01-09T15:26:06.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "20h ago"
-    },
-    {
-      "title": "Altcoins Defy Bitcoin Slump as XRP, Solana Notch Double-Digit Gains",
-      "link": "https://decrypt.co/354116/altcoins-defy-bitcoin-slump-xrp-solana-double-digit-gains",
-      "description": "Experts note altcoins’ superior performance compared to Bitcoin is driven by ETF narratives and markets awaiting key U.S. economic data.",
-      "pubDate": "2026-01-09T15:11:24.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "21h ago"
-    },
-    {
-      "title": "Bitcoin price clings to $90K as traders eye US Supreme Court tariff ruling",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-price-clings-90k-traders-us-supreme-court-tariff-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin traders avoided taking positions amid sideways BTC price action, while markets waited for a decision on US trade tariffs by the Supreme Court.",
-      "pubDate": "2026-01-09T15:07:10.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "21h ago"
-    },
-    {
-      "title": "Tether said to have invested up to $50 million in crypto lender Ledn at $500 million valuation",
-      "link": "https://www.coindesk.com/business/2026/01/09/tether-said-to-have-invested-up-to-usd50-million-in-crypto-lender-ledn-at-usd500-million-valuation",
-      "description": "The stablecoin issuer’s previously undisclosed investment valued the lender at about $500 million, according to a person familiar with the transaction.",
-      "pubDate": "2026-01-09T15:02:54.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "21h ago"
-    },
-    {
-      "title": "BNY activates tokenized deposit service for payments and collateral",
-      "link": "https://www.theblock.co/post/384930/bny-activates-tokenized-deposit-service-payments-collateral?utm_source=rss&amp;utm_medium=rss",
-      "description": "BNY launched a tokenized deposit service on Jan. 9, enabling blockchain based payments and collateral for institutional clients.",
-      "pubDate": "2026-01-09T14:56:20.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "21h ago"
+      "timeAgo": "yesterday"
     }
   ]
 }
