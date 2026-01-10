@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "The Senate moves toward a market structure vote: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/01/10/the-senate-moves-toward-a-market-structure-vote-state-of-crypto",
+      "description": "Lawmakers will (finally) vote on a market structure bill next week.",
+      "pubDate": "2026-01-10T17:00:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "5m ago"
+    },
+    {
+      "title": "Tennessee orders Kalshi, Polymarket and Crypto.com to cease sports betting contracts",
+      "link": "https://www.coindesk.com/policy/2026/01/10/tennessee-orders-kalshi-polymarket-and-crypto-com-to-cease-sports-betting-contracts",
+      "description": "The firms, federally regulated by the CFTC, were told to shut down Tennessee-based activity, refund deposits, and void open contracts by Jan. 31.",
+      "pubDate": "2026-01-10T16:51:02.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "14m ago"
+    },
+    {
       "title": "Brazilian exchange Mercado Bitcoin outlines 6 crypto trends shaping markets in 2026",
       "link": "https://www.coindesk.com/business/2026/01/10/brazilian-exchange-mercado-bitcoin-outlines-6-crypto-trends-shaping-markets-in-2026",
       "description": "The stablecoin sector is expected to grow to $500 billion, while altcoin ETFs are projected to reach $10 billion, driven by regulatory clarity and adoption.",
@@ -8,24 +28,14 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "34m ago"
-    },
-    {
-      "title": "Institutions know a “good” exchange is built for failure",
-      "link": "https://www.coindesk.com/opinion/2026/01/10/institutions-know-a-good-exchange-is-built-for-failure",
-      "description": "A platform's onboarding polish should not be confused for its ability to execute trades and handle immense volumes, argues Bridgeport co-founder and CCO Chris Soriano.",
-      "pubDate": "2026-01-10T15:00:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 2,
+  "totalCount": 3,
   "sources": [
     "CoinDesk"
   ],
-  "fetchedAt": "2026-01-10T16:06:17.108Z",
-  "cachedAt": "2026-01-10T16:05:54.000Z",
+  "fetchedAt": "2026-01-10T17:05:39.831Z",
+  "cachedAt": "2026-01-10T17:05:16.000Z",
   "source": "failsafe-cache"
 }
