@@ -8,7 +8,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "29m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'",
@@ -18,7 +18,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "The Senate moves toward a market structure vote: State of Crypto",
@@ -28,7 +28,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Anti-DeFi group runs ads urging public to pressure Senators on crypto bill: Report",
@@ -38,7 +38,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "A16z Crypto Shares Three Crypto Predictions for 2026",
@@ -47,7 +47,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "21h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Memecoin Market Cratered More Than 60% in 2025: Report",
@@ -56,7 +56,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "21h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Nasdaq, CME Group join forces to launch Nasdaq-CME Crypto Index",
@@ -300,7 +300,7 @@
     "Decrypt",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-10T22:05:35.352Z",
-  "cachedAt": "2026-01-10T22:05:29.000Z",
+  "fetchedAt": "2026-01-10T23:05:34.308Z",
+  "cachedAt": "2026-01-10T23:05:27.000Z",
   "source": "failsafe-cache"
 }
