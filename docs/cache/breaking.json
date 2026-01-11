@@ -8,14 +8,14 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "49m ago"
+      "timeAgo": "1h ago"
     }
   ],
   "totalCount": 1,
   "sources": [
     "CoinTelegraph"
   ],
-  "fetchedAt": "2026-01-11T11:05:23.690Z",
-  "cachedAt": "2026-01-11T11:05:05.000Z",
+  "fetchedAt": "2026-01-11T12:09:46.844Z",
+  "cachedAt": "2026-01-11T12:09:34.000Z",
   "source": "failsafe-cache"
 }
