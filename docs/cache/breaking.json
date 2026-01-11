@@ -1,20 +1,20 @@
 {
   "articles": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "pubDate": "2026-01-11T21:14:22.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "51m ago"
+    },
+    {
       "title": "ETH-BTC ratio bottomed in April, mirrors 2019 cycle: Analyst",
       "link": "<![CDATA[https://cointelegraph.com/news/eth-btc-bottom-april-mirror-2019-cycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "The Ethereum ecosystem continues to see increased development and value locked in tokenized assets, according to market analyst Michaël van de Poppe.",
       "pubDate": "2026-01-11T20:59:28.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "5m ago"
-    },
-    {
-      "title": "India tightens KYC requirements for crypto user onboarding",
-      "link": "<![CDATA[https://cointelegraph.com/news/india-tighten-kyc-crypto-user-onboarding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Tax and other regulatory agencies in India claim that cryptocurrencies and permissionless blockchain tech undermine tax collection.",
-      "pubDate": "2026-01-11T19:35:31.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
@@ -25,7 +25,7 @@
   "sources": [
     "CoinTelegraph"
   ],
-  "fetchedAt": "2026-01-11T21:05:20.311Z",
+  "fetchedAt": "2026-01-11T22:05:30.230Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -47,6 +47,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-11T21:05:05.000Z",
+  "cachedAt": "2026-01-11T22:05:22.000Z",
   "source": "failsafe-cache"
 }

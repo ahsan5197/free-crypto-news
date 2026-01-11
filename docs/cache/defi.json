@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "Here’s what happened in crypto today",
+      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "pubDate": "2026-01-11T21:14:22.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "51m ago"
+    },
+    {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
       "link": "https://www.coindesk.com/policy/2026/01/11/jpmorgan-downplays-stablecoin-threat-as-local-bankers-warn-of-usd6-6t-risk",
       "description": "The ABA sent a letter to the U.S. Senate, saying stablecoins that offer yields will affect its banking members ability to grant loans, but JPMorgan disagrees.",
@@ -8,7 +18,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -18,7 +28,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -27,16 +37,6 @@
       "pubDate": "2026-01-11T13:20:31.000Z",
       "source": "CoinDesk",
       "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "<![CDATA[https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "pubDate": "2026-01-11T12:19:04.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
       "category": "general",
       "timeAgo": "8h ago"
     },
@@ -96,7 +96,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "yesterday"
+      "timeAgo": "2d ago"
     },
     {
       "title": "US lawmakers demand ethics safeguards for market structure bill: Report",
@@ -221,7 +221,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "2d ago"
+      "timeAgo": "3d ago"
     },
     {
       "title": "White Whale Memecoin Surges Past $100 Million Valuation",
@@ -293,14 +293,14 @@
   ],
   "totalCount": 122,
   "sources": [
-    "CoinDesk",
     "CoinTelegraph",
+    "CoinDesk",
     "The Defiant",
     "The Block",
     "Decrypt",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-11T21:05:11.923Z",
+  "fetchedAt": "2026-01-11T22:05:23.997Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -322,6 +322,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-11T21:05:05.000Z",
+  "cachedAt": "2026-01-11T22:05:22.000Z",
   "source": "failsafe-cache"
 }
