@@ -1,27 +1,62 @@
 {
-  "version": "2.0.0",
-  "total_articles": 13,
-  "total_fetches": 9,
-  "first_fetch": "2026-01-11T08:06:30.767Z",
-  "last_fetch": "2026-01-11T13:18:24.251Z",
+  "version": "2.1.0",
+  "rebuilt_at": "2026-01-11T13:42:03.948Z",
+  "total_articles": 162,
+  "total_sources": 6,
+  "total_dates": 4,
+  "first_article": "2026-01-08T11:06:57.000Z",
+  "last_article": "2026-01-11T13:18:24.118Z",
   "daily_counts": {
-    "2026-01-11": 13
+    "2026-01-08": 50,
+    "2026-01-09": 76,
+    "2026-01-10": 22,
+    "2026-01-11": 14
   },
-  "features_used": {
-    "marketData": 8,
-    "onChain": 8,
-    "social": 8,
-    "predictions": 8,
-    "clustering": 8,
-    "reliability": 8
+  "sources": {
+    "coindesk": 46,
+    "decrypt": 24,
+    "defiant": 11,
+    "cointelegraph": 59,
+    "bitcoinmagazine": 9,
+    "theblock": 13
   },
-  "sources": {},
-  "tickers": {},
-  "latest_market": {
-    "btc_price": 90838,
-    "eth_price": 3111.42,
-    "fear_greed": 29,
-    "total_tvl": null,
-    "timestamp": "2026-01-11T13:18:19.567Z"
+  "tickers": {
+    "BITCOIN": 51,
+    "BTC": 51,
+    "ETH": 18,
+    "NEAR": 11,
+    "MKR": 8,
+    "ZEC": 8,
+    "ETHEREUM": 8,
+    "RIPPLE": 6,
+    "XRP": 6,
+    "USDT": 5,
+    "MATIC": 4,
+    "POLYGON": 4,
+    "BASE": 3,
+    "OP": 3,
+    "SEI": 2,
+    "LINEA": 2,
+    "TRX": 2,
+    "TETHER": 2,
+    "BNB": 1,
+    "RNDR": 1,
+    "APT": 1,
+    "FLOW": 1,
+    "USDC": 1,
+    "DOT": 1,
+    "POLKADOT": 1,
+    "SOL": 1,
+    "SOLANA": 1,
+    "DOGE": 1,
+    "LINK": 1,
+    "SUI": 1,
+    "SAND": 1,
+    "STRK": 1
+  },
+  "index_stats": {
+    "sources": 6,
+    "tickers": 32,
+    "dates": 4
   }
 }

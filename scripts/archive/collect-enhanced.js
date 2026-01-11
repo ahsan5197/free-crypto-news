@@ -407,10 +407,10 @@ async function collectEnhanced() {
   const snapshot = generateEnhancedSnapshot(allProcessed, collectedData);
   saveSnapshot(snapshot);
   
-  // Update stats
-  updateEnhancedStats(newArticles.length, updatedArticles.length, collectedData);
+  // Update stats (pass existing articles for accurate total count)
+  updateEnhancedStats(newArticles.length, updatedArticles.length, collectedData, existing.size);
   
-  // Update indexes
+  // Update indexes with new articles only (append)
   if (newArticles.length > 0) {
     updateIndexes(newArticles);
   }
@@ -454,7 +454,7 @@ async function collectEnhanced() {
 // HELPERS
 // =============================================================================
 
-function updateEnhancedStats(newCount, updatedCount, data) {
+function updateEnhancedStats(newCount, updatedCount, data, totalArticleCount) {
   const statsPath = path.join(ARCHIVE_DIR, 'v2', 'meta', 'stats.json');
   const metaDir = path.dirname(statsPath);
   
@@ -484,7 +484,8 @@ function updateEnhancedStats(newCount, updatedCount, data) {
   const now = new Date();
   const today = now.toISOString().split('T')[0];
   
-  stats.total_articles += newCount;
+  // Use actual article count as source of truth for total
+  stats.total_articles = totalArticleCount;
   stats.total_fetches++;
   stats.last_fetch = now.toISOString();
   if (!stats.first_fetch) stats.first_fetch = now.toISOString();
@@ -523,15 +524,18 @@ function updateIndexes(articles) {
     date: path.join(indexDir, 'by-date.json')
   };
   
+  // Load existing indexes
   try {
     if (fs.existsSync(paths.source)) bySource = JSON.parse(fs.readFileSync(paths.source, 'utf-8'));
     if (fs.existsSync(paths.ticker)) byTicker = JSON.parse(fs.readFileSync(paths.ticker, 'utf-8'));
     if (fs.existsSync(paths.date)) byDate = JSON.parse(fs.readFileSync(paths.date, 'utf-8'));
   } catch {}
   
+  // Append new articles to indexes
   for (const article of articles) {
     const source = article.source_key || 'unknown';
-    const date = article.first_seen?.split('T')[0] || new Date().toISOString().split('T')[0];
+    const pubDate = article.pub_date || article.first_seen;
+    const date = pubDate?.split('T')[0] || new Date().toISOString().split('T')[0];
     
     if (!bySource[source]) bySource[source] = [];
     if (!bySource[source].includes(article.id)) bySource[source].push(article.id);

@@ -15,11 +15,11 @@ interface TranslatedArticle {
   lang: string;
 }
 
-interface Article {
+// Base article shape for translation - uses intersection to preserve original types
+interface TranslatableArticle {
   title: string;
   description?: string;
   link: string;
-  [key: string]: unknown;
 }
 
 // Feature flag - disabled by default
@@ -147,7 +147,7 @@ ${JSON.stringify(texts, null, 2)}`;
  * - Target language is English
  * - No OPENAI_API_KEY configured
  */
-export async function translateArticles<T extends Article>(
+export async function translateArticles<T extends TranslatableArticle>(
   articles: T[],
   targetLang: string
 ): Promise<T[]> {
@@ -174,7 +174,7 @@ export async function translateArticles<T extends Article>(
 
   // Separate cached and uncached articles
   const cachedResults: Map<number, TranslatedArticle> = new Map();
-  const uncachedArticles: { index: number; article: Article }[] = [];
+  const uncachedArticles: { index: number; article: TranslatableArticle }[] = [];
 
   for (let i = 0; i < articles.length; i++) {
     const article = articles[i];

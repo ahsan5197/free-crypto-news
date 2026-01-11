@@ -173,7 +173,7 @@ function saveSnapshot(snapshot) {
 /**
  * Update archive statistics
  */
-function updateStats(newArticles, updatedArticles) {
+function updateStats(newArticles, updatedArticles, totalArticleCount) {
   const statsPath = path.join(ARCHIVE_DIR, 'v2', 'meta', 'stats.json');
   const metaDir = path.dirname(statsPath);
   
@@ -201,7 +201,8 @@ function updateStats(newArticles, updatedArticles) {
   const now = new Date();
   const today = now.toISOString().split('T')[0];
   
-  stats.total_articles += newArticles;
+  // Use actual article count as source of truth for total
+  stats.total_articles = totalArticleCount;
   stats.total_fetches++;
   stats.last_fetch = now.toISOString();
   if (!stats.first_fetch) {
@@ -354,11 +355,13 @@ async function collect() {
     writeJsonl(jsonlPath, Array.from(existing.values()));
     console.log(`💾 Archive saved: ${jsonlPath}`);
     
-    // Update stats
-    updateStats(newArticles.length, updatedArticles.length);
+    // Update stats (pass total article count for accuracy)
+    updateStats(newArticles.length, updatedArticles.length, existing.size);
     
-    // Update indexes
-    updateIndexes(newArticles);
+    // Update indexes with new articles only (append)
+    if (newArticles.length > 0) {
+      updateIndexes(newArticles);
+    }
   } else {
     console.log('ℹ️ No changes to archive');
   }
