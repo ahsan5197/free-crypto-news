@@ -8,6 +8,7 @@ import {
   toNewsArticle,
   EnrichedArticle
 } from '@/lib/archive-v2';
+import { translateArticles, isLanguageSupported, SUPPORTED_LANGUAGES } from '@/lib/translate';
 
 export const runtime = 'edge';
 
@@ -89,6 +90,17 @@ export async function GET(request: NextRequest) {
     const limit = Math.min(parseInt(searchParams.get('limit') || '50'), 200);
     const offset = parseInt(searchParams.get('offset') || '0');
     const format = searchParams.get('format') || 'full';
+    const lang = searchParams.get('lang') || 'en';
+    
+    // Validate language parameter
+    if (lang !== 'en' && !isLanguageSupported(lang)) {
+      return NextResponse.json({
+        success: false,
+        error: 'Unsupported language',
+        message: `Language '${lang}' is not supported`,
+        supported: Object.keys(SUPPORTED_LANGUAGES)
+      }, { status: 400 });
+    }
     
     // Validate date formats
     const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
@@ -157,12 +169,27 @@ export async function GET(request: NextRequest) {
         break;
     }
     
+    // Translate articles if language is not English
+    let translatedLang = 'en';
+    
+    if (lang !== 'en' && articles.length > 0) {
+      try {
+        articles = await translateArticles(articles as any, lang);
+        translatedLang = lang;
+      } catch (translateError) {
+        console.error('Translation failed:', translateError);
+        // Continue with original articles on translation failure
+      }
+    }
+    
     return NextResponse.json({
       success: true,
       version: '2.0.0',
-      count: result.articles.length,
+      count: articles.length,
       total: result.total,
       pagination: result.pagination,
+      lang: translatedLang,
+      availableLanguages: Object.keys(SUPPORTED_LANGUAGES),
       filters: {
         start_date: startDate || null,
         end_date: endDate || null,
