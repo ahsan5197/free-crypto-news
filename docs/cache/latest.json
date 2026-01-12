@@ -1,9 +1,19 @@
 {
   "articles": [
     {
-      "title": "US government is behind most debanking cases, new research confirms",
+      "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
+      "link": "<![CDATA[https://cointelegraph.com/news/tether-role-venezuela-iran-highlights-stablecoin-duality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The dual life of stablecoins: A lifeline for citizens and a tool for sanctioned entities involved in Venezuela and Iran's economic crises.",
+      "pubDate": "2026-01-12T06:20:54.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Most US debanking cases stem from government pressure, report says",
       "link": "<![CDATA[https://cointelegraph.com/news/cato-institute-government-pressure-debanking-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Cato Institute analyst Nicholas Anthony argues the US Congress needs to reform the Bank Secrecy Act, repeal confidentiality laws, and end reputational risk regulation to address debanking.",
+      "description": "Cato Institute analyst Nicholas Anthony argues the US Congress needs to reform the Bank Secrecy Act, repeal confidentiality laws and end reputational risk regulation to address debanking.",
       "pubDate": "2026-01-12T06:10:12.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
@@ -18,7 +28,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "South Korea to lift ban on corporate crypto investment: Report",
@@ -28,17 +38,17 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
-      "title": "​​Top UK lawmakers push to ban political donations made in crypto",
+      "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
       "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
       "pubDate": "2026-01-12T05:48:18.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
@@ -48,7 +58,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Ethereum needs better decentralized stablecoins: Vitalik Buterin",
@@ -68,17 +78,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
-      "title": "Crypto YouTube views sink to 5-year lows, ‘it’s not just X’",
+      "title": "Crypto YouTube views sink to lowest level since early 2021, ‘it’s not just X'",
       "link": "<![CDATA[https://cointelegraph.com/news/crypto-youtube-viewership-sinks-2021-lows-as-retail-interest-evaporates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "Crypto content viewership on YouTube has plunged over the past three months, signaling bear market conditions as retail interest in crypto continues to decline.",
       "pubDate": "2026-01-12T03:56:22.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair",
@@ -88,7 +98,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Coinbase may reconsider support for US market structure bill: Bloomberg",
@@ -98,7 +108,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Memecoins hit hardest in rough year that saw 11.6M tokens fail",
@@ -108,17 +118,17 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
-      "title": "Fed’s Powell links DOJ probe to his defiance of Trump on rates",
+      "title": "Fed’s Powell says DOJ probe reflects ‘pressure’ over rate policy independence",
       "link": "<![CDATA[https://cointelegraph.com/news/fed-powell-says-doj-probe-due-defying-trump-interest-rates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Federal Reserve Chair Jerome Powell says his refusal to drop interest rates led to Donald Trump opening a criminal investigation over renovations to the central bank’s headquarters.",
+      "description": "Federal Reserve Chair Jerome Powell said a Justice Department investigation should be viewed in the context of mounting political pressure over the Fed’s interest rate independence.",
       "pubDate": "2026-01-12T02:41:34.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Prediction markets downplay Powell exit risk despite DOJ probe: Asia Morning Briefing",
@@ -128,7 +138,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Coinbase could pull CLARITY Act support over stablecoin rewards ban",
@@ -138,7 +148,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "The Funding: Why token buybacks are suddenly back in focus",
@@ -148,17 +158,17 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "X to roll out ‘Smart Cashtags’ for crypto, stocks next month",
       "link": "<![CDATA[https://cointelegraph.com/news/x-building-smart-cashtags-tracking-crypto-stock-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Smart Cashtags will enable users to track real-time price movements of crypto tokens and stocks, building on X’s long-term vision to become an Everything App.",
+      "description": "Smart Cashtags aim to enable users to track real-time price movements of crypto tokens and stocks, building on X’s long-term vision to become an Everything App.",
       "pubDate": "2026-01-12T00:49:05.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -168,7 +178,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "X Plans ‘Smart Cashtags’ to Link Crypto and Stock Tickers to Live Prices",
@@ -178,7 +188,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -188,7 +198,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "10h ago"
     },
     {
       "title": "ETH-BTC ratio bottomed in April, mirrors 2019 cycle: Analyst",
@@ -198,7 +208,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "UK committee chairs push for crypto political donations ban, adding pressure to Labour government",
@@ -208,7 +218,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "India tightens KYC requirements for crypto user onboarding",
@@ -218,7 +228,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "11h ago"
+      "timeAgo": "12h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -228,7 +238,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "12h ago"
+      "timeAgo": "13h ago"
     },
     {
       "title": "Elon Musks's X teases crypto-aware ‘smart cashtags’ just day after community backlash",
@@ -248,7 +258,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -258,7 +268,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "Monero’s XMR hits $500 for the first time since 2021 as rival Zcash fumbles",
@@ -268,7 +278,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "16h ago"
     },
     {
       "title": "Walmart and Google bet on AI agents to reshape how people shop online",
@@ -278,7 +288,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "16h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -288,7 +298,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Bitcoin bear market still in play as power law sees $65K ‘do-or-die’ price",
@@ -298,7 +308,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -308,7 +318,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "18h ago"
     },
     {
       "title": "Ethereum’s future hinges on zero-knowledge proofs, EF director says",
@@ -318,7 +328,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "Russians ask government hotlines whether pensions are paid in crypto",
@@ -328,7 +338,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "CryptoQuant founder slams X for penalizing crypto content instead of bots",
@@ -338,7 +348,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "20h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Tennessee sends cease-and-desist letters to Kalshi, Polymarket, Crypto.com",
@@ -489,16 +499,6 @@
       "sourceKey": "coindesk",
       "category": "general",
       "timeAgo": "yesterday"
-    },
-    {
-      "title": "Hundreds of wealthy investors are using crypto to buy real estate in Europe",
-      "link": "https://www.coindesk.com/business/2026/01/09/hundreds-of-wealthy-investors-are-using-crypto-to-buy-real-estate-in-europe",
-      "description": "Brighty co-founder Nikolay Denisenko, a former lead backend engineer at Revolut, says his startup has brokered over 100 deals for HNWIs to buy apartments in Europe.",
-      "pubDate": "2026-01-10T14:00:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "yesterday"
     }
   ],
   "totalCount": 238,
@@ -511,7 +511,7 @@
     "Blockworks",
     "The Defiant"
   ],
-  "fetchedAt": "2026-01-12T07:11:22.695Z",
+  "fetchedAt": "2026-01-12T08:09:05.697Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -533,6 +533,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T07:11:17.000Z",
+  "cachedAt": "2026-01-12T08:08:59.000Z",
   "source": "failsafe-cache"
 }

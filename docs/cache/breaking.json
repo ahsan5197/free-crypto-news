@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "title": "South Korea proposes 5% limit for listed firms’ crypto exposure",
+      "link": "https://www.coindesk.com/markets/2026/01/12/south-korea-proposes-5-limit-for-listed-firms-crypto-exposure",
+      "description": "The proposed guidelines would allow eligible firms to invest in the top 20 cryptocurrencies by market value.",
+      "pubDate": "2026-01-12T07:15:54.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "53m ago"
+    },
+    {
       "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
       "link": "<![CDATA[https://cointelegraph.com/news/tether-role-venezuela-iran-highlights-stablecoin-duality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "The dual life of stablecoins: A lifeline for citizens and a tool for sanctioned entities involved in Venezuela and Iran's economic crises.",
@@ -8,7 +18,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "50m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Most US debanking cases stem from government pressure, report says",
@@ -19,54 +29,14 @@
       "sourceKey": "cointelegraph",
       "category": "general",
       "timeAgo": "1h ago"
-    },
-    {
-      "title": "India tightens crypto rules to fight money laundering and terror funding",
-      "link": "https://www.coindesk.com/markets/2026/01/12/india-tightens-crypto-rules-to-fight-money-laundering-and-terror-funding",
-      "description": "India's financial intelligence agency has announced stricter identity verification measures for cryptocurrency exchanges to prevent money laundering and terror financing.",
-      "pubDate": "2026-01-12T06:00:11.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "South Korea to lift ban on corporate crypto investment: Report",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-ends-9-year-ban-on-corporate-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "South Korea’s FSC reportedly shared guidelines allowing listed companies to invest up to 5% of equity in the top 20 cryptocurrencies, ending a 2017 ban.",
-      "pubDate": "2026-01-12T05:59:47.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
-      "pubDate": "2026-01-12T05:48:18.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
-      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates",
-      "description": "Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.",
-      "pubDate": "2026-01-12T05:16:10.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 6,
+  "totalCount": 3,
   "sources": [
-    "CoinTelegraph",
-    "CoinDesk"
+    "CoinDesk",
+    "CoinTelegraph"
   ],
-  "fetchedAt": "2026-01-12T07:11:32.399Z",
+  "fetchedAt": "2026-01-12T08:09:12.171Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -88,6 +58,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T07:11:17.000Z",
+  "cachedAt": "2026-01-12T08:08:59.000Z",
   "source": "failsafe-cache"
 }

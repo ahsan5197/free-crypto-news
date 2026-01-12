@@ -8,7 +8,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -18,7 +18,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -28,7 +28,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "10h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -38,7 +38,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "12h ago"
+      "timeAgo": "13h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -48,7 +48,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -58,7 +58,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -68,7 +68,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "18h ago"
     },
     {
       "title": "Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'",
@@ -172,16 +172,6 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "2d ago"
-    },
-    {
-      "title": "CoinDesk 20 Performance Update: Index Trades Flat as Polygon Gains 11.2%",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/01/09/coindesk-20-performance-update-index-trades-flat-as-polygon-gains-11-2",
-      "description": "Polkadot (DOT) dropped 1.4% and Ripple (XRP) fell 0.9% from Thursday.",
-      "pubDate": "2026-01-09T14:09:55.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "2d ago"
     },
     {
@@ -289,9 +279,18 @@
       "sourceKey": "decrypt",
       "category": "general",
       "timeAgo": "3d ago"
+    },
+    {
+      "title": "Crypto Derivatives Market Reset After Oct. 10 Crash: BitMEX",
+      "link": "https://thedefiant.io/news/cefi/crypto-derivatives-market-reset-after-oct-10-crash-bitmex",
+      "pubDate": "2026-01-08T12:00:00.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "3d ago"
     }
   ],
-  "totalCount": 121,
+  "totalCount": 120,
   "sources": [
     "CoinTelegraph",
     "Decrypt",
@@ -300,7 +299,7 @@
     "The Block",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-12T07:11:23.659Z",
+  "fetchedAt": "2026-01-12T08:09:06.732Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -322,6 +321,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T07:11:17.000Z",
+  "cachedAt": "2026-01-12T08:08:59.000Z",
   "source": "failsafe-cache"
 }
