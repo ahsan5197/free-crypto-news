@@ -1,24 +1,14 @@
 {
   "articles": [
     {
-      "title": "​​Top UK lawmakers push to ban political donations made in crypto",
+      "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
       "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
       "pubDate": "2026-01-12T05:48:18.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "22m ago"
-    },
-    {
-      "title": "Fed’s Powell links DOJ probe to his defiance of Trump on rates",
-      "link": "<![CDATA[https://cointelegraph.com/news/fed-powell-says-doj-probe-due-defying-trump-interest-rates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Federal Reserve Chair Jerome Powell says his refusal to drop interest rates led to Donald Trump opening a criminal investigation over renovations to the central bank’s headquarters.",
-      "pubDate": "2026-01-12T02:41:34.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -28,7 +18,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -38,7 +28,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -48,7 +38,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "11h ago"
+      "timeAgo": "12h ago"
+    },
+    {
+      "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-bitmine-1-million-staked-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The latest staking move highlights the growing scale of corporate Ethereum treasuries as firms look to generate yield on idle crypto holdings.",
+      "pubDate": "2026-01-11T16:46:14.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "14h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -58,7 +58,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "16h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -68,7 +68,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'",
@@ -300,7 +300,7 @@
     "The Block",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-12T06:10:43.937Z",
+  "fetchedAt": "2026-01-12T07:11:23.659Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -322,6 +322,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T06:10:36.000Z",
+  "cachedAt": "2026-01-12T07:11:17.000Z",
   "source": "failsafe-cache"
 }

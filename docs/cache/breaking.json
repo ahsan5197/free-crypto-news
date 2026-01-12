@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
+      "link": "<![CDATA[https://cointelegraph.com/news/tether-role-venezuela-iran-highlights-stablecoin-duality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The dual life of stablecoins: A lifeline for citizens and a tool for sanctioned entities involved in Venezuela and Iran's economic crises.",
+      "pubDate": "2026-01-12T06:20:54.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "50m ago"
+    },
+    {
+      "title": "Most US debanking cases stem from government pressure, report says",
+      "link": "<![CDATA[https://cointelegraph.com/news/cato-institute-government-pressure-debanking-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Cato Institute analyst Nicholas Anthony argues the US Congress needs to reform the Bank Secrecy Act, repeal confidentiality laws and end reputational risk regulation to address debanking.",
+      "pubDate": "2026-01-12T06:10:12.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "India tightens crypto rules to fight money laundering and terror funding",
       "link": "https://www.coindesk.com/markets/2026/01/12/india-tightens-crypto-rules-to-fight-money-laundering-and-terror-funding",
       "description": "India's financial intelligence agency has announced stricter identity verification measures for cryptocurrency exchanges to prevent money laundering and terror financing.",
@@ -8,7 +28,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "10m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "South Korea to lift ban on corporate crypto investment: Report",
@@ -18,17 +38,17 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "11m ago"
+      "timeAgo": "1h ago"
     },
     {
-      "title": "​​Top UK lawmakers push to ban political donations made in crypto",
+      "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
       "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
       "pubDate": "2026-01-12T05:48:18.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "22m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
@@ -38,35 +58,15 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "54m ago"
-    },
-    {
-      "title": "Ethereum needs better decentralized stablecoins: Vitalik Buterin",
-      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-buterin-calls-for-better-decentralized-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "It isn’t a good idea to fully back a stablecoin with a single fiat currency, because if that nation-state fails, so will the stablecoin, argues Ethereum co-founder Vitalik Buterin.",
-      "pubDate": "2026-01-12T05:09:46.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Privacy tokens rally as XMR breaks all-time high",
-      "link": "https://www.coindesk.com/markets/2026/01/12/privacy-tokens-rally-as-xmr-breaks-all-time-high",
-      "description": "XMR, ZEC, SOL and other alts are rallying as BTC remains rangebound",
-      "pubDate": "2026-01-12T04:31:23.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
   "totalCount": 6,
   "sources": [
-    "CoinDesk",
-    "CoinTelegraph"
+    "CoinTelegraph",
+    "CoinDesk"
   ],
-  "fetchedAt": "2026-01-12T06:10:49.644Z",
+  "fetchedAt": "2026-01-12T07:11:32.399Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -88,6 +88,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T06:10:36.000Z",
+  "cachedAt": "2026-01-12T07:11:17.000Z",
   "source": "failsafe-cache"
 }
