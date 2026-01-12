@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "title": "Fed rate cuts under fire: 5 things to know in Bitcoin this week",
+      "link": "<![CDATA[https://cointelegraph.com/news/fed-rate-cuts-under-fire-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Bitcoin injected volatility as legal action against the Federal Reserve combined with market nerves over geopolitics at the start of a key week for inflation data.",
+      "pubDate": "2026-01-12T09:01:37.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "9m ago"
+    },
+    {
+      "title": "SEC delays PENGU and T. Rowe crypto ETFs as Grayscale seeks options green light",
+      "link": "<![CDATA[https://cointelegraph.com/news/sec-delays-crypto-etf-decisions-pengu-t-rowe-grayscale-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The SEC delayed decisions on two crypto ETFs and opened public comments on options tied to a Grayscale multi-asset crypto fund.",
+      "pubDate": "2026-01-12T08:50:28.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "21m ago"
+    },
+    {
+      "title": "Tether freezes $182 million in USDT tied to five Tron addresses",
+      "link": "https://www.theblock.co/post/385051/tether-freezes-182-million-usdt?utm_source=rss&amp;utm_medium=rss",
+      "description": "Tether froze $182 million in USDT across five Tron wallets, highlighting enforcement as stablecoins dominate illicit crypto flows.",
+      "pubDate": "2026-01-12T08:06:21.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "South Korea proposes 5% limit for listed firms’ crypto exposure",
       "link": "https://www.coindesk.com/markets/2026/01/12/south-korea-proposes-5-limit-for-listed-firms-crypto-exposure",
       "description": "The proposed guidelines would allow eligible firms to invest in the top 20 cryptocurrencies by market value.",
@@ -8,35 +38,16 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "53m ago"
-    },
-    {
-      "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
-      "link": "<![CDATA[https://cointelegraph.com/news/tether-role-venezuela-iran-highlights-stablecoin-duality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The dual life of stablecoins: A lifeline for citizens and a tool for sanctioned entities involved in Venezuela and Iran's economic crises.",
-      "pubDate": "2026-01-12T06:20:54.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Most US debanking cases stem from government pressure, report says",
-      "link": "<![CDATA[https://cointelegraph.com/news/cato-institute-government-pressure-debanking-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Cato Institute analyst Nicholas Anthony argues the US Congress needs to reform the Bank Secrecy Act, repeal confidentiality laws and end reputational risk regulation to address debanking.",
-      "pubDate": "2026-01-12T06:10:12.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 3,
+  "totalCount": 4,
   "sources": [
-    "CoinDesk",
-    "CoinTelegraph"
+    "CoinTelegraph",
+    "The Block",
+    "CoinDesk"
   ],
-  "fetchedAt": "2026-01-12T08:09:12.171Z",
+  "fetchedAt": "2026-01-12T09:11:30.655Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -58,6 +69,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T08:08:59.000Z",
+  "cachedAt": "2026-01-12T09:11:14.000Z",
   "source": "failsafe-cache"
 }

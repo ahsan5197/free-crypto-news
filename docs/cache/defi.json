@@ -8,7 +8,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -18,7 +18,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -28,7 +28,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -38,7 +38,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "13h ago"
+      "timeAgo": "14h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -48,7 +48,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "16h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -58,7 +58,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "17h ago"
+      "timeAgo": "18h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -68,7 +68,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'",
@@ -89,16 +89,6 @@
       "sourceKey": "coindesk",
       "category": "general",
       "timeAgo": "yesterday"
-    },
-    {
-      "title": "Anti-DeFi group runs ads urging public to pressure Senators on crypto bill: Report",
-      "link": "<![CDATA[https://cointelegraph.com/news/anti-defi-group-runs-ads-to-strip-defi-from-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "A series of ads reportedly aired on Fox News, calling on the public to contact their senators to remove DeFi provisions from the CLARITY Act bill.",
-      "pubDate": "2026-01-10T05:27:05.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "2d ago"
     },
     {
       "title": "A16z Crypto Shares Three Crypto Predictions for 2026",
@@ -173,16 +163,6 @@
       "sourceKey": "defiant",
       "category": "defi",
       "timeAgo": "2d ago"
-    },
-    {
-      "title": "Consensys-backed SharpLink stakes $170 million in ETH on Linea",
-      "link": "https://www.theblock.co/post/384870/sharplink-stakes-eth-linea?utm_source=rss&amp;utm_medium=rss",
-      "description": "The latest deployment builds on its previously disclosed plan to stake $200 million in ETH across Linea and affiliated restaking partners.",
-      "pubDate": "2026-01-09T04:51:02.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "3d ago"
     },
     {
       "title": "Wall Street, Crypto Leaders Make &#39;Progress&#39; on Crypto Bill in Private Meeting: Sources",
@@ -288,18 +268,35 @@
       "sourceKey": "defiant",
       "category": "defi",
       "timeAgo": "3d ago"
+    },
+    {
+      "title": "Polymarket Begins Rolling Out Fees in US App and Crypto Markets",
+      "link": "https://thedefiant.io/news/defi/polymarket-begins-rolling-out-fees-in-us-app-and-crypto-markets",
+      "pubDate": "2026-01-07T21:49:42.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "4d ago"
+    },
+    {
+      "title": "Clone-X NFTs Soar 200% as Nike Sells RTFKT",
+      "link": "https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt",
+      "pubDate": "2026-01-07T20:42:10.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "4d ago"
     }
   ],
-  "totalCount": 120,
+  "totalCount": 118,
   "sources": [
     "CoinTelegraph",
     "Decrypt",
     "CoinDesk",
     "The Defiant",
-    "The Block",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-12T08:09:06.732Z",
+  "fetchedAt": "2026-01-12T09:11:20.163Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -321,6 +318,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T08:08:59.000Z",
+  "cachedAt": "2026-01-12T09:11:14.000Z",
   "source": "failsafe-cache"
 }
