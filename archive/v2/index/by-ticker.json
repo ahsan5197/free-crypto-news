@@ -79,7 +79,9 @@
     "9355a396442b5ef9",
     "2d39d61371873ac4",
     "d5a00fc548d23f71",
-    "d5d7091a8bc1f01d"
+    "d5d7091a8bc1f01d",
+    "f5ba4f4907adf9c4",
+    "7bdeba4c44a12bb8"
   ],
   "BTC": [
     "093d092f22f61633",
@@ -151,7 +153,9 @@
     "9355a396442b5ef9",
     "2d39d61371873ac4",
     "d5a00fc548d23f71",
-    "d5d7091a8bc1f01d"
+    "d5d7091a8bc1f01d",
+    "f5ba4f4907adf9c4",
+    "7bdeba4c44a12bb8"
   ],
   "MKR": [
     "5b0c4dd5a8dca435",
@@ -207,7 +211,10 @@
     "848397679ba285ee",
     "a8f946cd3564002c",
     "c6f330fcea228ae2",
-    "5266ba4469e151fc"
+    "5266ba4469e151fc",
+    "ec56d2a123cc6648",
+    "f5ba4f4907adf9c4",
+    "726eb728508b6e34"
   ],
   "RNDR": [
     "2105d39eacf32dda"
@@ -215,7 +222,8 @@
   "BASE": [
     "2f335f52aaf184be",
     "0fe7a40c09831077",
-    "fe2dbfcf0a564563"
+    "fe2dbfcf0a564563",
+    "726eb728508b6e34"
   ],
   "NEAR": [
     "2f335f52aaf184be",
@@ -230,7 +238,8 @@
     "63e6a04cd8d2c8ce",
     "ade67e0a39bb4a07",
     "d99a32c532836948",
-    "705abfcdf2d93082"
+    "705abfcdf2d93082",
+    "ec092ca64d781d18"
   ],
   "APT": [
     "436f6ff3150bfa73"
@@ -288,7 +297,10 @@
     "fcb489f03831890e",
     "0ae7ffa7d62ac5d4",
     "922e15ca57e0bbed",
-    "848397679ba285ee"
+    "848397679ba285ee",
+    "ec56d2a123cc6648",
+    "f5ba4f4907adf9c4",
+    "726eb728508b6e34"
   ],
   "LINEA": [
     "998f6cf2cfc31cd8",
@@ -344,5 +356,14 @@
     "d99a32c532836948",
     "9da0854522bf332e",
     "f5c7d522c0b7a832"
+  ],
+  "ADA": [
+    "a9b3ed14c45a7cfe"
+  ],
+  "CARDANO": [
+    "a9b3ed14c45a7cfe"
+  ],
+  "CRO": [
+    "4d6cea9845dcd7ed"
   ]
 }
