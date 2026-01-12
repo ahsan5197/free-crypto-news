@@ -1,14 +1,34 @@
 {
   "articles": [
     {
+      "title": "Dubai free zone shifts crypto token vetting to licensed firms",
+      "link": "<![CDATA[https://cointelegraph.com/news/dubai-difc-dfsa-crypto-token-suitability-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "DFSA’s new company-led suitability model and AML expectations would make it difficult for licensed firms to justify supporting privacy-focused assets.",
+      "pubDate": "2026-01-12T12:00:59.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "9m ago"
+    },
+    {
+      "title": "Bitcoin pares Powell-fueled spike as privacy coins outperform: Crypto Markets Today",
+      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today",
+      "description": "Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.",
+      "pubDate": "2026-01-12T11:40:19.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "30m ago"
+    },
+    {
       "title": "Crypto funds bleed $454M in outflows as Fed rate-cut hopes fade",
       "link": "<![CDATA[https://cointelegraph.com/news/crypto-etp-454-million-outflows-fed-rate-cut-hopes-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin drove $404 million of crypto ETP outflows last week, with the US shedding $569 million, as several altcoins and European funds posted modest inflows.",
+      "description": "Bitcoin led with $405 million of outflows last week, with the US shedding $569 million, as several altcoins and European funds posted modest inflows.",
       "pubDate": "2026-01-12T10:59:30.000Z",
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "7m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "UK lawmakers push to ban crypto political donations over foreign interference fears",
@@ -18,7 +38,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "24m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "OKX founder defends asset freezes after user admits buying KYC accounts",
@@ -28,105 +48,15 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "28m ago"
-    },
-    {
-      "title": "Powell investigation may introduce ‘risk premia’ for Bitcoin: Analysts",
-      "link": "<![CDATA[https://cointelegraph.com/news/powell-investigation-risk-premia-bitcoin-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin’s non-sovereign narrative is gaining attention as reports of a probe into US Fed Chair Jerome Powell raise concerns over political pressure and markets.",
-      "pubDate": "2026-01-12T10:04:48.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "U.S. inflation report, BNB Smart Chain’s hard fork: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/01/08/u-s-inflation-report-bnb-smart-chain-s-hard-fork-crypto-week-ahead",
-      "description": "Your look at what's coming in the week starting Jan. 12.",
-      "pubDate": "2026-01-12T10:03:45.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Dubai bans privacy tokens, tightens stablecoin rules in crypto reset",
-      "link": "https://www.coindesk.com/policy/2026/01/12/dubai-bans-privacy-tokens-tightens-stablecoin-rules-in-crypto-reset",
-      "description": "Dubai's financial regulator said privacy-focused assets are incompatible with global compliance norms as it moves to a firm-led token suitability model and sharper stablecoin classifications.",
-      "pubDate": "2026-01-12T09:36:42.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Veteran trader Peter Brandt hints at silver-like bull run in Monero",
-      "link": "https://www.coindesk.com/markets/2026/01/12/veteran-trader-peter-brandt-hints-at-silver-like-breakout-in-monero",
-      "description": "Monero set fresh records earlier Monday, driven by renewed interest in privacy and upcoming protocol upgrades.",
-      "pubDate": "2026-01-12T09:35:55.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Coinbase pushes back against banks to keep rewarding users for holding stablecoins",
-      "link": "https://www.coindesk.com/business/2026/01/12/coinbase-pushes-back-against-banks-to-keep-rewarding-users-for-holding-stablecoins",
-      "description": "Disagreements over stablecoin rewards have frayed bipartisan support for the bill, with traders estimating a 68-70% chance of passage this year.",
-      "pubDate": "2026-01-12T09:27:34.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Adam Back-backed Bitcoin treasury Future Holdings set for takeover by H100",
-      "link": "<![CDATA[https://cointelegraph.com/news/adam-back-future-holdings-h100-acquisition-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Adam Back-backed Bitcoin treasury Future Holdings has agreed to a takeover proposal from Sweden-listed H100 Group as it eyes expansion into Switzerland.",
-      "pubDate": "2026-01-12T09:26:35.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin treasury firms linked to Adam Back sign preliminary agreement to combine",
-      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-treasury-firms-linked-to-adam-back-sign-preliminary-agreement-to-combine",
-      "description": "The proposed deal would take Sweden-based H100 into Switzerland and deepen its institutional bitcoin treasury strategy.",
-      "pubDate": "2026-01-12T09:22:03.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin's early gains fade fast as prices fall back below $91,000",
-      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-s-early-gains-fade-fast-as-prices-fall-back-below-usd91-000",
-      "description": "Risk sentiment deteriorates as safe havens outperform and equities weaken.",
-      "pubDate": "2026-01-12T09:17:50.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Stablecoins, sanctions and surveillance: Why 2025 reshaped crypto’s regulatory reality",
-      "link": "<![CDATA[https://cointelegraph.com/news/stablecoins-sanctions-and-surveillance-why-2025-reshaped-crypto-s-regulatory-reality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "From record onchain volumes to geopolitics-driven crypto crime, 2025 structurally shifted how regulators and institutions engaged with digital assets, with stablecoins at the center.",
-      "pubDate": "2026-01-12T09:14:30.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 12,
+  "totalCount": 5,
   "sources": [
     "CoinTelegraph",
     "CoinDesk"
   ],
-  "fetchedAt": "2026-01-12T11:06:32.841Z",
+  "fetchedAt": "2026-01-12T12:10:35.778Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -148,6 +78,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T11:06:17.000Z",
+  "cachedAt": "2026-01-12T12:10:24.000Z",
   "source": "failsafe-cache"
 }

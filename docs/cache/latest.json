@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "Dubai free zone shifts crypto token vetting to licensed firms",
+      "link": "<![CDATA[https://cointelegraph.com/news/dubai-difc-dfsa-crypto-token-suitability-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "DFSA’s new company-led suitability model and AML expectations would make it difficult for licensed firms to justify supporting privacy-focused assets.",
+      "pubDate": "2026-01-12T12:00:59.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "9m ago"
+    },
+    {
+      "title": "Bitcoin pares Powell-fueled spike as privacy coins outperform: Crypto Markets Today",
+      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today",
+      "description": "Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.",
+      "pubDate": "2026-01-12T11:40:19.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "30m ago"
+    },
+    {
+      "title": "Crypto funds bleed $454M in outflows as Fed rate-cut hopes fade",
+      "link": "<![CDATA[https://cointelegraph.com/news/crypto-etp-454-million-outflows-fed-rate-cut-hopes-fade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Bitcoin led with $405 million of outflows last week, with the US shedding $569 million, as several altcoins and European funds posted modest inflows.",
+      "pubDate": "2026-01-12T10:59:30.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "UK lawmakers push to ban crypto political donations over foreign interference fears",
+      "link": "https://www.coindesk.com/policy/2026/01/12/uk-lawmakers-push-to-ban-crypto-political-donations-over-foreign-interference-fears",
+      "description": "They argue that cryptocurrency's opacity and traceability issues make it a threat to democratic integrity, citing an intelligence report election interference.",
+      "pubDate": "2026-01-12T10:42:24.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "OKX founder defends asset freezes after user admits buying KYC accounts",
+      "link": "<![CDATA[https://cointelegraph.com/news/okx-founder-account-freeze-policy-kyc-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Star Xu defended freezing $40,000 in stablecoins after a user admitted buying verified accounts, with the exchange citing strict KYC and AML obligations.",
+      "pubDate": "2026-01-12T10:37:42.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "Powell investigation may introduce ‘risk premia’ for Bitcoin: Analysts",
       "link": "<![CDATA[https://cointelegraph.com/news/powell-investigation-risk-premia-bitcoin-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "Bitcoin’s non-sovereign narrative is gaining attention as reports of a probe into US Fed Chair Jerome Powell raise concerns over political pressure and markets.",
@@ -8,7 +58,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "U.S. inflation report, BNB Smart Chain’s hard fork: Crypto Week Ahead",
@@ -18,7 +68,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Dubai bans privacy tokens, tightens stablecoin rules in crypto reset",
@@ -28,7 +78,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Veteran trader Peter Brandt hints at silver-like bull run in Monero",
@@ -38,7 +88,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Coinbase pushes back against banks to keep rewarding users for holding stablecoins",
@@ -48,7 +98,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Adam Back-backed Bitcoin treasury Future Holdings set for takeover by H100",
@@ -58,7 +108,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bitcoin treasury firms linked to Adam Back sign preliminary agreement to combine",
@@ -68,7 +118,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bitcoin's early gains fade fast as prices fall back below $91,000",
@@ -78,7 +128,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Stablecoins, sanctions and surveillance: Why 2025 reshaped crypto’s regulatory reality",
@@ -88,7 +138,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Fed rate cuts under fire: 5 things to know in Bitcoin this week",
@@ -98,7 +148,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "SEC delays PENGU and T. Rowe crypto ETFs as Grayscale seeks options green light",
@@ -108,7 +158,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Tether freezes $182 million in USDT tied to five Tron addresses",
@@ -118,7 +168,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "South Korea proposes 5% limit for listed firms’ crypto exposure",
@@ -128,7 +178,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
@@ -138,7 +188,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Most US debanking cases stem from government pressure, report says",
@@ -148,7 +198,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "India tightens crypto rules to fight money laundering and terror funding",
@@ -158,7 +208,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "South Korea to lift ban on corporate crypto investment: Report",
@@ -168,7 +218,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin, privacy coins rally as Trump-Powell conflict escalates",
@@ -178,7 +228,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "South Korean authorities seek 5% cap on corporate crypto investments: report",
@@ -188,7 +238,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
@@ -198,7 +248,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
@@ -208,7 +258,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Ethereum needs better decentralized stablecoins: Vitalik Buterin",
@@ -218,7 +268,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Privacy tokens rally as XMR breaks all-time high",
@@ -228,7 +278,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Crypto YouTube views sink to lowest level since early 2021, ‘it’s not just X'",
@@ -238,7 +288,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair",
@@ -248,7 +298,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "8h ago"
     },
     {
       "title": "Coinbase may reconsider support for US market structure bill: Bloomberg",
@@ -258,7 +308,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "7h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "Memecoins hit hardest in rough year that saw 11.6M tokens fail",
@@ -268,7 +318,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "Fed’s Powell says DOJ probe reflects ‘pressure’ over rate policy independence",
@@ -278,7 +328,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "Prediction markets downplay Powell exit risk despite DOJ probe: Asia Morning Briefing",
@@ -288,7 +338,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "Coinbase could pull CLARITY Act support over stablecoin rewards ban",
@@ -298,7 +348,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "The Funding: Why token buybacks are suddenly back in focus",
@@ -308,7 +358,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "8h ago"
+      "timeAgo": "9h ago"
     },
     {
       "title": "X to roll out ‘Smart Cashtags’ for crypto, stocks next month",
@@ -318,7 +368,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -328,7 +378,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "X Plans ‘Smart Cashtags’ to Link Crypto and Stock Tickers to Live Prices",
@@ -338,7 +388,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "11h ago"
+      "timeAgo": "12h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -348,7 +398,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "13h ago"
+      "timeAgo": "14h ago"
     },
     {
       "title": "ETH-BTC ratio bottomed in April, mirrors 2019 cycle: Analyst",
@@ -358,7 +408,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "UK committee chairs push for crypto political donations ban, adding pressure to Labour government",
@@ -368,7 +418,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "14h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "India tightens KYC requirements for crypto user onboarding",
@@ -378,7 +428,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "15h ago"
+      "timeAgo": "16h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -388,7 +438,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Elon Musks's X teases crypto-aware ‘smart cashtags’ just day after community backlash",
@@ -398,7 +448,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Vitalik Buterin says decentralized stablecoins still face three unsolved problems",
@@ -408,7 +458,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -418,7 +468,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "Monero’s XMR hits $500 for the first time since 2021 as rival Zcash fumbles",
@@ -428,7 +478,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "Walmart and Google bet on AI agents to reshape how people shop online",
@@ -438,7 +488,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "19h ago"
+      "timeAgo": "20h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -448,57 +498,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "20h ago"
-    },
-    {
-      "title": "Bitcoin bear market still in play as power law sees $65K ‘do-or-die’ price",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin power law analysis concluded that price may face a new battle around $65,000 if BTC spends 2026 as a year of consolidation.",
-      "pubDate": "2026-01-11T14:37:48.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "20h ago"
-    },
-    {
-      "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
-      "link": "https://www.coindesk.com/tech/2026/01/11/ethereum-co-founder-vitalik-buterin-warns-decentralized-stablecoins-still-have-deep-flaws",
-      "description": "The Ethereum co-founder argues that price benchmarks, oracle security and staking incentives remain unresolved challenges for decentralized stablecoins.",
-      "pubDate": "2026-01-11T13:20:31.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "21h ago"
-    },
-    {
-      "title": "Ethereum’s future hinges on zero-knowledge proofs, EF director says",
-      "link": "https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says",
-      "description": "In a recent interview with CoinDesk, Ethereum Foundation co-executive director Hsiao-Wei Wang described zero-knowledge as part of Ethereum’s midterm roadmap, pointing to “many amazing breakthroughs” i",
-      "pubDate": "2026-01-11T13:00:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "22h ago"
-    },
-    {
-      "title": "Russians ask government hotlines whether pensions are paid in crypto",
-      "link": "<![CDATA[https://cointelegraph.com/news/russians-ask-pensions-paid-in-crypto-social-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Crypto-related questions about pension payments are reaching Russia’s Social Fund hotline, suggesting digital assets are entering mainstream financial concerns.",
-      "pubDate": "2026-01-11T12:13:48.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "22h ago"
-    },
-    {
-      "title": "CryptoQuant founder slams X for penalizing crypto content instead of bots",
-      "link": "<![CDATA[https://cointelegraph.com/news/cryptoquant-founder-slams-x-over-bot-spam-and-crypto-suppression?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "X’s head of product said Crypto Twitter’s reach problems are self-inflicted, blaming overposting rather than algorithmic suppression.",
-      "pubDate": "2026-01-11T10:15:30.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "yesterday"
     }
   ],
   "totalCount": 238,
@@ -511,7 +511,7 @@
     "Blockworks",
     "The Defiant"
   ],
-  "fetchedAt": "2026-01-12T11:06:23.013Z",
+  "fetchedAt": "2026-01-12T12:10:24.806Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -533,6 +533,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T11:06:17.000Z",
+  "cachedAt": "2026-01-12T12:10:24.000Z",
   "source": "failsafe-cache"
 }

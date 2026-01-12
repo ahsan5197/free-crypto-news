@@ -8,7 +8,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "24m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Veteran trader Peter Brandt hints at silver-like bull run in Monero",
@@ -18,7 +18,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
@@ -28,7 +28,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -38,7 +38,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -48,7 +48,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "13h ago"
+      "timeAgo": "14h ago"
     },
     {
       "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
@@ -58,7 +58,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "16h ago"
+      "timeAgo": "17h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -68,7 +68,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "18h ago"
+      "timeAgo": "19h ago"
     },
     {
       "title": "As the market tanks, crypto’s new gold rush is…gold",
@@ -78,7 +78,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "20h ago"
+      "timeAgo": "21h ago"
     },
     {
       "title": "Ethereum co-founder Vitalik Buterin warns decentralized stablecoins still have deep flaws",
@@ -88,7 +88,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "21h ago"
+      "timeAgo": "22h ago"
     },
     {
       "title": "Robinhood explains building an Ethereum layer-2: 'We wanted the security from Ethereum'",
@@ -267,7 +267,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "3d ago"
+      "timeAgo": "4d ago"
     },
     {
       "title": "Polymarket Begins Rolling Out Fees in US App and Crypto Markets",
@@ -296,7 +296,7 @@
     "The Defiant",
     "Bitcoin Magazine"
   ],
-  "fetchedAt": "2026-01-12T11:06:24.159Z",
+  "fetchedAt": "2026-01-12T12:10:25.742Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -318,6 +318,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T11:06:17.000Z",
+  "cachedAt": "2026-01-12T12:10:24.000Z",
   "source": "failsafe-cache"
 }
