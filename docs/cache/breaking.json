@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "title": "Charles Hoskinson doubts CLARITY Act timeline, says Trump crypto czar should quit",
+      "link": "<![CDATA[https://cointelegraph.com/news/charles-hoskinson-doubts-clarity-act-urges-david-sacks-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Cardano founder Charles Hoskinson said the CLARITY Act may not pass this quarter, and criticized US crypto laws for favoring big banks over innovation.",
+      "pubDate": "2026-01-12T13:59:43.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "9m ago"
+    },
+    {
+      "title": "Bank of Italy models Ethereum risks if ETH value collapsed",
+      "link": "<![CDATA[https://cointelegraph.com/news/bank-of-italy-ethereum-security-ether-price-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The Bank of Italy modeled the extreme scenario of Ether going to zero to show how market risk in Ethereum’s native token could turn into infrastructure and financial stability risks.",
+      "pubDate": "2026-01-12T13:46:23.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "22m ago"
+    },
+    {
+      "title": "Standard Chartered said to plan crypto brokerage, trims ETH forecast",
+      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-crypto-prime-brokerage-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Standard Chartered is reportedly developing a crypto prime brokerage platform as traditional banks expand digital asset services.",
+      "pubDate": "2026-01-12T13:36:41.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "32m ago"
+    },
+    {
+      "title": "Standard Chartered says &#8216;2026 will be the year of Ethereum&#8217; as bank backs ETH outperformance",
+      "link": "https://www.theblock.co/post/385097/standard-chartered-says-2026-will-be-the-year-of-ethereum?utm_source=rss&amp;utm_medium=rss",
+      "description": "Standard Chartered forecasts Ethereum outperformance versus Bitcoin, citing network effects and growing real-world asset adoption.",
+      "pubDate": "2026-01-12T13:34:37.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "34m ago"
+    },
+    {
+      "title": "XRP stays pinned near $2.05 as the range tightens into a make-or-break zone",
+      "link": "https://www.coindesk.com/markets/2026/01/12/xrp-stays-pinned-near-usd2-05-as-the-range-tightens-into-a-make-or-break-zone",
+      "description": "The market remains level-driven, with potential for a breakout if $2.08 is reclaimed or a breakdown if $2.04 is breached.",
+      "pubDate": "2026-01-12T13:28:13.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "40m ago"
+    },
+    {
+      "title": "Morning Minute: a16z Raises $15B, Targets AI &amp;#038; Crypto",
+      "link": "https://decrypt.co/354228/morning-minute-a16z-raises-15b-targets-ai-crypto",
+      "description": "a16z raised over 18% of all venture capital in 2025 with a goal of \"giving everybody a shot.\" What does that mean exactly?",
+      "pubDate": "2026-01-12T13:23:08.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "45m ago"
+    },
+    {
       "title": "Strategy makes largest bitcoin purchase since July, adds 13,627 BTC",
       "link": "https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc",
       "description": "Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.",
@@ -8,7 +68,27 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "7m ago"
+      "timeAgo": "56m ago"
+    },
+    {
+      "title": "&#8216;Big orange&#8217;: Michael Saylor&#8217;s Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision",
+      "link": "https://www.theblock.co/post/385084/michael-saylors-strategy-buys-more-bitcoin-following-dat-msci-decision?utm_source=rss&amp;utm_medium=rss",
+      "description": "Strategy's holdings account for more than 3% of the total 21 million bitcoin supply — worth around $62 billion.",
+      "pubDate": "2026-01-12T13:06:08.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Standard Chartered prepares crypto prime brokerage push: Bloomberg",
+      "link": "https://www.theblock.co/post/385093/standard-chartered-crypto-prime-brokerage?utm_source=rss&amp;utm_medium=rss",
+      "description": "Standard Chartered is reportedly preparing a crypto prime brokerage business to be housed within its SC Ventures unit.",
+      "pubDate": "2026-01-12T13:01:12.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "1h ago"
     },
     {
       "title": "VelaFi raises $20 million in Series B to expand stablecoin payments infrastructure",
@@ -18,7 +98,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "19m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -28,7 +108,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "21m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Tether freezes $182 million in USDT stablecoin across five Tron blockchain wallets",
@@ -38,7 +118,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "32m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "BNB slides to $900 as traders look to havens",
@@ -48,7 +128,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "32m ago"
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "What is Crypto.com?",
+      "link": "https://www.theblock.co/learn/384949/what-is-crypto-com?utm_source=rss&amp;utm_medium=rss",
+      "description": "Crypto.com is a popular centralized crypto exchange that is also tied to the multi-layer Cronos ecosystem and the CRO token.",
+      "pubDate": "2026-01-12T12:33:10.000Z",
+      "source": "The Block",
+      "sourceKey": "theblock",
+      "category": "general",
+      "timeAgo": "1h ago"
     },
     {
       "title": "Quantum computing threatens the $2 trillion Bitcoin network. BTQ Technologies says it has a defense.",
@@ -58,7 +148,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "49m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Seventy economists urge EU to ‘let the public interest prevail’ on digital euro",
@@ -68,7 +158,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "50m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Bitcoin fails haven test as Justice Dept. subpoenas Powell: Crypto Daybook Americas",
@@ -79,34 +169,16 @@
       "sourceKey": "coindesk",
       "category": "general",
       "timeAgo": "1h ago"
-    },
-    {
-      "title": "Dubai free zone shifts crypto token vetting to licensed companies",
-      "link": "<![CDATA[https://cointelegraph.com/news/dubai-difc-dfsa-crypto-token-suitability-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "DFSA’s new company-led suitability model and AML expectations may make it difficult for licensed entities to justify supporting privacy-focused assets.",
-      "pubDate": "2026-01-12T12:00:59.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin pares Powell-fueled spike as privacy coins outperform: Crypto Markets Today",
-      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-pares-powell-fueled-spike-as-privacy-coins-outperform-crypto-markets-today",
-      "description": "Bitcoin briefly topped $92,000 on interest-rate uncertainty, while privacy coins hit fresh highs and memecoin activity lifted select altcoins.",
-      "pubDate": "2026-01-12T11:40:19.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 10,
+  "totalCount": 17,
   "sources": [
+    "CoinTelegraph",
+    "The Block",
     "CoinDesk",
-    "CoinTelegraph"
+    "Decrypt"
   ],
-  "fetchedAt": "2026-01-12T13:19:13.857Z",
+  "fetchedAt": "2026-01-12T14:08:54.628Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -128,6 +200,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T13:18:56.000Z",
+  "cachedAt": "2026-01-12T14:08:42.000Z",
   "source": "failsafe-cache"
 }
