@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "title": "India tightens crypto rules to fight money laundering and terror funding",
+      "link": "https://www.coindesk.com/markets/2026/01/12/india-tightens-crypto-rules-to-fight-money-laundering-and-terror-funding",
+      "description": "India's financial intelligence agency has announced stricter identity verification measures for cryptocurrency exchanges to prevent money laundering and terror financing.",
+      "pubDate": "2026-01-12T06:00:11.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "10m ago"
+    },
+    {
+      "title": "South Korea to lift ban on corporate crypto investment: Report",
+      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-ends-9-year-ban-on-corporate-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "South Korea’s FSC reportedly shared guidelines allowing listed companies to invest up to 5% of equity in the top 20 cryptocurrencies, ending a 2017 ban.",
+      "pubDate": "2026-01-12T05:59:47.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "11m ago"
+    },
+    {
+      "title": "​​Top UK lawmakers push to ban political donations made in crypto",
+      "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
+      "pubDate": "2026-01-12T05:48:18.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "22m ago"
+    },
+    {
+      "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
+      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates",
+      "description": "Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.",
+      "pubDate": "2026-01-12T05:16:10.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "54m ago"
+    },
+    {
+      "title": "Ethereum needs better decentralized stablecoins: Vitalik Buterin",
+      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-buterin-calls-for-better-decentralized-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "It isn’t a good idea to fully back a stablecoin with a single fiat currency, because if that nation-state fails, so will the stablecoin, argues Ethereum co-founder Vitalik Buterin.",
+      "pubDate": "2026-01-12T05:09:46.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "Privacy tokens rally as XMR breaks all-time high",
       "link": "https://www.coindesk.com/markets/2026/01/12/privacy-tokens-rally-as-xmr-breaks-all-time-high",
       "description": "XMR, ZEC, SOL and other alts are rallying as BTC remains rangebound",
@@ -8,36 +58,15 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "41m ago"
-    },
-    {
-      "title": "Crypto YouTube views sink to 5-year lows, ‘it’s not just X’",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-youtube-viewership-sinks-2021-lows-as-retail-interest-evaporates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Crypto content viewership on YouTube has plunged over the past three months, signaling bear market conditions as retail interest in crypto continues to decline.",
-      "pubDate": "2026-01-12T03:56:22.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair",
-      "link": "https://decrypt.co/354224/bitcoin-powell-probe-doj-fed-chair",
-      "description": "Experts note Bitcoin’s hedge narrative could strengthen if ​​Fed Chair Jerome Powell’s criminal investigation is successful.",
-      "pubDate": "2026-01-12T03:39:25.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 3,
+  "totalCount": 6,
   "sources": [
     "CoinDesk",
-    "CoinTelegraph",
-    "Decrypt"
+    "CoinTelegraph"
   ],
-  "fetchedAt": "2026-01-12T05:13:03.458Z",
+  "fetchedAt": "2026-01-12T06:10:49.644Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -59,6 +88,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T05:12:56.000Z",
+  "cachedAt": "2026-01-12T06:10:36.000Z",
   "source": "failsafe-cache"
 }
