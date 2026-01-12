@@ -1,6 +1,115 @@
 {
   "articles": [
     {
+      "title": "Wall Street broker Benchmark says this could be a pivotal week for digital assets",
+      "link": "https://www.coindesk.com/policy/2026/01/12/wall-street-broker-benchmark-says-this-could-be-a-pivotal-week-for-digital-assets",
+      "description": "Senate action on market structure legislation could end years of regulatory uncertainty, unlock institutional liquidity and re-rate crypto-linked stocks.",
+      "pubDate": "2026-01-12T16:06:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "2m ago"
+    },
+    {
+      "title": "Trump-linked World Liberty brings $3.4B stablecoin into crypto lending markets",
+      "link": "<![CDATA[https://cointelegraph.com/news/world-liberty-financial-crypto-lending-usd1-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "World Liberty Financial has launched a crypto lending platform built around its USD1 stablecoin, as demand for onchain credit shows signs of recovery.",
+      "pubDate": "2026-01-12T15:55:50.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "12m ago"
+    },
+    {
+      "title": "Strategy Spends $1.2 Billion on Bitcoin, Its Biggest BTC Buy Since July",
+      "link": "https://decrypt.co/354239/strategy-spends-1-2-billion-bitcoin-biggest-btc-buy-july",
+      "description": "Strategy notched its largest Bitcoin purchase in five months, following MSCI's decision to not exclude the company from its indices.",
+      "pubDate": "2026-01-12T15:48:02.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "20m ago"
+    },
+    {
+      "title": "BitMine adds 24,000 ether, but warns accumulation may slow without shareholder approval",
+      "link": "https://www.coindesk.com/business/2026/01/12/bitmine-adds-24-000-ether-but-warns-accumulation-may-slow-without-shareholder-approval",
+      "description": "The largest Ethereum-focused crypto treasury firm lifted holdings to 4.17 million ETH but signaled limits ahead without authorization to issue fresh equity.",
+      "pubDate": "2026-01-12T15:35:06.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "33m ago"
+    },
+    {
+      "title": "BitGo aims to raise $201 million in IPO targeting $1.85 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/01/12/bitgo-aims-to-raise-usd201-million-in-ipo-targeting-usd1-85-billion-valuation",
+      "description": "The company has reported significant revenue growth and achieved profitability with $35.3 million in net income in the first nine months of 2025.",
+      "pubDate": "2026-01-12T15:31:36.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "37m ago"
+    },
+    {
+      "title": "Satoshi-Era Bitcoin Whale Moves $180M in BTC to Coinbase",
+      "link": "https://decrypt.co/354240/satoshi-era-bitcoin-whale-moves-180m-in-btc-to-coinbase",
+      "description": "This is the first time the coins have moved since the summer of 2010, sparking speculation on social media.",
+      "pubDate": "2026-01-12T15:30:38.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "38m ago"
+    },
+    {
+      "title": "Ethereum set for 95% copycat rally against Bitcoin",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-set-for-95-percent-copycat-rally-against-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "ETH price could rally 95% versus Bitcoin if a decisive breakout above the key 0.042 BTC neckline confirms a bullish reversal.",
+      "pubDate": "2026-01-12T15:24:28.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "44m ago"
+    },
+    {
+      "title": "Bitcoin's price hasn't peaked yet and its just a 'mid-cycle' correction, historical data shows",
+      "link": "https://www.coindesk.com/markets/2026/01/10/bitcoin-s-price-hasn-t-peaked-yet-and-its-just-a-mid-cycle-correction-historical-data-shows",
+      "description": "The current drawdown suggests a mid cycle correction rather than a historic cycle top.",
+      "pubDate": "2026-01-12T15:13:07.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Crypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO",
+      "link": "https://bitcoinmagazine.com/news/crypto-firm-bitgo-eyes-near-2b-valuation",
+      "description": "Bitcoin Magazine\n\nCrypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO\nBitGo launched an IPO for 11.8 million Class A shares, priced $15–$17 each, with a 30-day option for 1.77 million additiona",
+      "pubDate": "2026-01-12T15:12:50.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Ether to hit $40,000 by 2030 beating bitcoin, Standard Chartered says",
+      "link": "https://www.coindesk.com/markets/2026/01/12/standard-chartered-predicts-ether-will-outperform-bitcoin-hit-usd40-000-by-2030",
+      "description": "The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.",
+      "pubDate": "2026-01-12T15:12:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
+      "title": "Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers",
+      "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum",
+      "pubDate": "2026-01-12T15:09:19.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "59m ago"
+    },
+    {
       "title": "Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events",
       "link": "https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events",
       "description": "Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.",
@@ -8,7 +117,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "24m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Strategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410",
@@ -18,7 +127,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "33m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Crypto custody company BitGo seeks up to $201 million in US IPO",
@@ -28,7 +137,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "45m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Strategy makes biggest Bitcoin purchase since July 2025, adds $1.25B in BTC",
@@ -38,7 +147,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "53m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "CoinDesk 20 Performance Update: Solana (SOL) Gains 3.1% as Index Trades Flat",
@@ -48,98 +157,18 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "55m ago"
-    },
-    {
-      "title": "Charles Hoskinson doubts CLARITY Act timeline, says Trump crypto czar should quit",
-      "link": "<![CDATA[https://cointelegraph.com/news/charles-hoskinson-doubts-clarity-act-urges-david-sacks-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Cardano founder Charles Hoskinson said the CLARITY Act may not pass this quarter, and criticized US crypto laws for favoring big banks over innovation.",
-      "pubDate": "2026-01-12T13:59:43.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Bank of Italy models Ethereum risks if ETH value collapsed",
-      "link": "<![CDATA[https://cointelegraph.com/news/bank-of-italy-ethereum-security-ether-price-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The Bank of Italy modeled the extreme scenario of Ether going to zero to show how market risk in Ethereum’s native token could turn into infrastructure and financial stability risks.",
-      "pubDate": "2026-01-12T13:46:23.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Standard Chartered said to plan crypto brokerage, trims ETH forecast",
-      "link": "<![CDATA[https://cointelegraph.com/news/standard-chartered-crypto-prime-brokerage-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Standard Chartered is reportedly developing a crypto prime brokerage platform as traditional banks expand digital asset services.",
-      "pubDate": "2026-01-12T13:36:41.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Standard Chartered says &#8216;2026 will be the year of Ethereum&#8217; as bank backs ETH outperformance",
-      "link": "https://www.theblock.co/post/385097/standard-chartered-says-2026-will-be-the-year-of-ethereum?utm_source=rss&amp;utm_medium=rss",
-      "description": "Standard Chartered forecasts Ethereum outperformance versus Bitcoin, citing network effects and growing real-world asset adoption.",
-      "pubDate": "2026-01-12T13:34:37.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "XRP stays pinned near $2.05 as the range tightens into a make-or-break zone",
-      "link": "https://www.coindesk.com/markets/2026/01/12/xrp-stays-pinned-near-usd2-05-as-the-range-tightens-into-a-make-or-break-zone",
-      "description": "The market remains level-driven, with potential for a breakout if $2.08 is reclaimed or a breakdown if $2.04 is breached.",
-      "pubDate": "2026-01-12T13:28:13.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Morning Minute: a16z Raises $15B, Targets AI &amp;#038; Crypto",
-      "link": "https://decrypt.co/354228/morning-minute-a16z-raises-15b-targets-ai-crypto",
-      "description": "a16z raised over 18% of all venture capital in 2025 with a goal of \"giving everybody a shot.\" What does that mean exactly?",
-      "pubDate": "2026-01-12T13:23:08.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum",
-      "link": "https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum",
-      "description": "Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.",
-      "pubDate": "2026-01-12T13:15:43.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "1h ago"
-    },
-    {
-      "title": "Strategy makes largest bitcoin purchase since July, adds 13,627 BTC",
-      "link": "https://www.coindesk.com/markets/2026/01/12/strategy-makes-largest-bitcoin-purchase-since-july-adds-13-627-btc",
-      "description": "Strategy purchased 13,267 BTC for $1.25 billion via the use of common stock and it's perpetual preferred equity STRC.",
-      "pubDate": "2026-01-12T13:12:07.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
       "timeAgo": "1h ago"
     }
   ],
-  "totalCount": 13,
+  "totalCount": 16,
   "sources": [
+    "CoinDesk",
+    "CoinTelegraph",
     "Decrypt",
     "Bitcoin Magazine",
-    "CoinTelegraph",
-    "CoinDesk",
-    "The Block"
+    "The Defiant"
   ],
-  "fetchedAt": "2026-01-12T15:08:28.591Z",
+  "fetchedAt": "2026-01-12T16:08:39.182Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -161,6 +190,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T15:08:11.000Z",
+  "cachedAt": "2026-01-12T16:08:26.000Z",
   "source": "failsafe-cache"
 }

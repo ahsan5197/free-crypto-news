@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "title": "Wall Street broker Benchmark says this could be a pivotal week for digital assets",
+      "link": "https://www.coindesk.com/policy/2026/01/12/wall-street-broker-benchmark-says-this-could-be-a-pivotal-week-for-digital-assets",
+      "description": "Senate action on market structure legislation could end years of regulatory uncertainty, unlock institutional liquidity and re-rate crypto-linked stocks.",
+      "pubDate": "2026-01-12T16:06:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "2m ago"
+    },
+    {
+      "title": "Trump-linked World Liberty brings $3.4B stablecoin into crypto lending markets",
+      "link": "<![CDATA[https://cointelegraph.com/news/world-liberty-financial-crypto-lending-usd1-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "World Liberty Financial has launched a crypto lending platform built around its USD1 stablecoin, as demand for onchain credit shows signs of recovery.",
+      "pubDate": "2026-01-12T15:55:50.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "12m ago"
+    },
+    {
+      "title": "Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers",
+      "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum",
+      "pubDate": "2026-01-12T15:09:19.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "59m ago"
+    },
+    {
       "title": "CoinDesk 20 Performance Update: Solana (SOL) Gains 3.1% as Index Trades Flat",
       "link": "https://www.coindesk.com/coindesk-indices/2026/01/12/coindesk-20-performance-update-solana-sol-gains-3-1-as-index-trades-flat",
       "description": "Ethereum (ETH) joined Solana (SOL) as a top performer, rising 0.9% over the weekend.",
@@ -8,7 +37,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "55m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "&#8216;Big orange&#8217;: Michael Saylor&#8217;s Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision",
@@ -18,7 +47,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -28,7 +57,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Seventy economists urge EU to ‘let the public interest prevail’ on digital euro",
@@ -38,7 +67,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum",
@@ -48,7 +77,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "UK lawmakers push to ban crypto political donations over foreign interference fears",
@@ -58,7 +87,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Veteran trader Peter Brandt hints at silver-like bull run in Monero",
@@ -68,7 +97,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
@@ -78,7 +107,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "10h ago"
     },
     {
       "title": "Monero Sets New Record Price as Privacy Trade Re-Emerges",
@@ -88,17 +117,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "14h ago"
-    },
-    {
-      "title": "JPMorgan downplays stablecoin threat as local bankers warn of $6.6 trillion risk",
-      "link": "https://www.coindesk.com/policy/2026/01/11/jpmorgan-downplays-stablecoin-threat-as-local-bankers-warn-of-usd6-6t-risk",
-      "description": "The ABA sent a letter to the U.S. Senate, saying stablecoins that offer yields will affect its banking members ability to grant loans, but JPMorgan disagrees.",
-      "pubDate": "2026-01-11T19:00:00.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "20h ago"
+      "timeAgo": "15h ago"
     },
     {
       "title": "Ethereum treasury company BitMine crosses 1 million staked ETH milestone",
@@ -108,7 +127,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "22h ago"
+      "timeAgo": "23h ago"
     },
     {
       "title": "A16z Crypto Shares Three Crypto Predictions for 2026",
@@ -162,7 +181,7 @@
       "source": "The Defiant",
       "sourceKey": "defiant",
       "category": "defi",
-      "timeAgo": "2d ago"
+      "timeAgo": "3d ago"
     },
     {
       "title": "Wall Street, Crypto Leaders Make &#39;Progress&#39; on Crypto Bill in Private Meeting: Sources",
@@ -267,35 +286,17 @@
       "sourceKey": "defiant",
       "category": "defi",
       "timeAgo": "4d ago"
-    },
-    {
-      "title": "Clone-X NFTs Soar 200% as Nike Sells RTFKT",
-      "link": "https://thedefiant.io/news/nfts-and-web3/clone-x-nfts-soar-200-as-nike-sells-rtfkt",
-      "pubDate": "2026-01-07T20:42:10.000Z",
-      "source": "The Defiant",
-      "sourceKey": "defiant",
-      "category": "defi",
-      "timeAgo": "4d ago"
-    },
-    {
-      "title": "Crypto Markets Edge Lower as Investors Weigh Macro Data",
-      "link": "https://thedefiant.io/news/markets/crypto-markets-edge-lower-as-investors-weigh-macro-data",
-      "pubDate": "2026-01-07T19:27:24.000Z",
-      "source": "The Defiant",
-      "sourceKey": "defiant",
-      "category": "defi",
-      "timeAgo": "4d ago"
     }
   ],
-  "totalCount": 117,
+  "totalCount": 118,
   "sources": [
     "CoinDesk",
-    "The Block",
     "CoinTelegraph",
-    "Decrypt",
-    "The Defiant"
+    "The Defiant",
+    "The Block",
+    "Decrypt"
   ],
-  "fetchedAt": "2026-01-12T15:08:18.517Z",
+  "fetchedAt": "2026-01-12T16:08:32.690Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -317,6 +318,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T15:08:11.000Z",
+  "cachedAt": "2026-01-12T16:08:26.000Z",
   "source": "failsafe-cache"
 }

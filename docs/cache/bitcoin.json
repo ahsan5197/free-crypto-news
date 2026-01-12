@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "title": "Strategy Spends $1.2 Billion on Bitcoin, Its Biggest BTC Buy Since July",
+      "link": "https://decrypt.co/354239/strategy-spends-1-2-billion-bitcoin-biggest-btc-buy-july",
+      "description": "Strategy notched its largest Bitcoin purchase in five months, following MSCI's decision to not exclude the company from its indices.",
+      "pubDate": "2026-01-12T15:48:02.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "20m ago"
+    },
+    {
+      "title": "Satoshi-Era Bitcoin Whale Moves $180M in BTC to Coinbase",
+      "link": "https://decrypt.co/354240/satoshi-era-bitcoin-whale-moves-180m-in-btc-to-coinbase",
+      "description": "This is the first time the coins have moved since the summer of 2010, sparking speculation on social media.",
+      "pubDate": "2026-01-12T15:30:38.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "37m ago"
+    },
+    {
+      "title": "Ethereum set for 95% copycat rally against Bitcoin",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-set-for-95-percent-copycat-rally-against-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "ETH price could rally 95% versus Bitcoin if a decisive breakout above the key 0.042 BTC neckline confirms a bullish reversal.",
+      "pubDate": "2026-01-12T15:24:28.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "44m ago"
+    },
+    {
+      "title": "Bitcoin's price hasn't peaked yet and its just a 'mid-cycle' correction, historical data shows",
+      "link": "https://www.coindesk.com/markets/2026/01/10/bitcoin-s-price-hasn-t-peaked-yet-and-its-just-a-mid-cycle-correction-historical-data-shows",
+      "description": "The current drawdown suggests a mid cycle correction rather than a historic cycle top.",
+      "pubDate": "2026-01-12T15:13:07.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Crypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO",
+      "link": "https://bitcoinmagazine.com/news/crypto-firm-bitgo-eyes-near-2b-valuation",
+      "description": "Bitcoin Magazine\n\nCrypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO\nBitGo launched an IPO for 11.8 million Class A shares, priced $15–$17 each, with a 30-day option for 1.77 million additiona",
+      "pubDate": "2026-01-12T15:12:50.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Ether to hit $40,000 by 2030 beating bitcoin, Standard Chartered says",
+      "link": "https://www.coindesk.com/markets/2026/01/12/standard-chartered-predicts-ether-will-outperform-bitcoin-hit-usd40-000-by-2030",
+      "description": "The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.",
+      "pubDate": "2026-01-12T15:12:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
       "title": "Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events",
       "link": "https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events",
       "description": "Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.",
@@ -8,7 +68,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "24m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Strategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410",
@@ -18,7 +78,7 @@
       "source": "Bitcoin Magazine",
       "sourceKey": "bitcoinmagazine",
       "category": "bitcoin",
-      "timeAgo": "33m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Strategy makes biggest Bitcoin purchase since July 2025, adds $1.25B in BTC",
@@ -28,7 +88,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "53m ago"
+      "timeAgo": "1h ago"
     },
     {
       "title": "Standard Chartered says &#8216;2026 will be the year of Ethereum&#8217; as bank backs ETH outperformance",
@@ -38,7 +98,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Strategy makes largest bitcoin purchase since July, adds 13,627 BTC",
@@ -48,7 +108,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "&#8216;Big orange&#8217;: Michael Saylor&#8217;s Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision",
@@ -58,7 +118,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -68,7 +128,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Quantum computing threatens the $2 trillion Bitcoin network. BTQ Technologies says it has a defense.",
@@ -78,7 +138,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Bitcoin fails haven test as Justice Dept. subpoenas Powell: Crypto Daybook Americas",
@@ -88,7 +148,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Bitcoin pares Powell-fueled spike as privacy coins outperform: Crypto Markets Today",
@@ -98,7 +158,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Crypto funds bleed $454M in outflows as Fed rate-cut hopes fade",
@@ -108,7 +168,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Powell investigation may introduce ‘risk premia’ for Bitcoin: Analysts",
@@ -118,7 +178,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Adam Back-backed Bitcoin treasury Future Holdings set for takeover by H100",
@@ -128,7 +188,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin treasury firms linked to Adam Back sign preliminary agreement to combine",
@@ -138,7 +198,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin's early gains fade fast as prices fall back below $91,000",
@@ -148,7 +208,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Fed rate cuts under fire: 5 things to know in Bitcoin this week",
@@ -158,7 +218,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "6h ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Bitcoin, privacy coins rally as Trump-Powell conflict escalates",
@@ -168,7 +228,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "10h ago"
     },
     {
       "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
@@ -178,7 +238,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "9h ago"
+      "timeAgo": "10h ago"
     },
     {
       "title": "Privacy tokens rally as XMR breaks all-time high",
@@ -188,7 +248,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "10h ago"
+      "timeAgo": "11h ago"
     },
     {
       "title": "Bitcoin Shrugs Off Powell Probe as DOJ Targets Fed Chair",
@@ -198,7 +258,7 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "11h ago"
+      "timeAgo": "12h ago"
     },
     {
       "title": "ETH-BTC ratio bottomed in April, mirrors 2019 cycle: Analyst",
@@ -208,17 +268,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "18h ago"
-    },
-    {
-      "title": "Bitcoin bear market still in play as power law sees $65K ‘do-or-die’ price",
-      "link": "<![CDATA[https://cointelegraph.com/news/bitcoin-four-year-cycle-in-play-power-law-65k-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin power law analysis concluded that price may face a new battle around $65,000 if BTC spends 2026 as a year of consolidation.",
-      "pubDate": "2026-01-11T14:37:48.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "yesterday"
+      "timeAgo": "19h ago"
     },
     {
       "title": "XRP ETFs hit record weekly volume as bitcoin, ether funds face $750 million in combined outflows",
@@ -249,68 +299,18 @@
       "sourceKey": "decrypt",
       "category": "general",
       "timeAgo": "2d ago"
-    },
-    {
-      "title": "Bitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-90000-tariff-delay",
-      "description": "Bitcoin Magazine\n\nBitcoin Price Holds $90,000 as Tariff Ruling Delay Eases Some Macro Jitters\nThe bitcoin price hovered near $90,000 as the Supreme Court's tariff ruling delay reduced macro uncertaint",
-      "pubDate": "2026-01-09T19:08:41.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
-      "timeAgo": "2d ago"
-    },
-    {
-      "title": "The Daily: Cathie Wood says US government may soon start buying bitcoin, Ripple secures FCA authorization, and more",
-      "link": "https://www.theblock.co/post/384974/the-daily-cathie-wood-says-us-government-may-soon-start-buying-bitcoin-ripple-secures-fca-authorization-and-more?utm_source=rss&amp;utm_medium=rss",
-      "description": "The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.",
-      "pubDate": "2026-01-09T18:36:40.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "2d ago"
-    },
-    {
-      "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
-      "link": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
-      "description": "Crypto majors are mostly flat ahead of today’s supreme court opinion on the trump tariffs; btc +1% at $90,300; eth 13% at $3,090, sol +3% at $138; xrp +1% to $2.10. Polygon (+11%), zec (+11%) and syru",
-      "pubDate": "2026-01-09T17:17:12.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "2d ago"
-    },
-    {
-      "title": "Altcoins Defy Bitcoin Slump as XRP, Solana Notch Double-Digit Gains",
-      "link": "https://decrypt.co/354116/altcoins-defy-bitcoin-slump-xrp-solana-double-digit-gains",
-      "description": "Experts note altcoins’ superior performance compared to Bitcoin is driven by ETF narratives and markets awaiting key U.S. economic data.",
-      "pubDate": "2026-01-09T15:11:24.000Z",
-      "source": "Decrypt",
-      "sourceKey": "decrypt",
-      "category": "general",
-      "timeAgo": "2d ago"
-    },
-    {
-      "title": "This Investor Thinks the United States Could Start Buying Bitcoin in 2026",
-      "link": "https://bitcoinmagazine.com/news/the-united-states-is-going-to-buy-bitcoin",
-      "description": "Bitcoin Magazine\n\nThis Investor Thinks the United States Could Start Buying Bitcoin in 2026\nCathie Wood thinks that with crypto now a durable political issue, President Trump may move the U.S. beyond ",
-      "pubDate": "2026-01-09T14:54:59.000Z",
-      "source": "Bitcoin Magazine",
-      "sourceKey": "bitcoinmagazine",
-      "category": "bitcoin",
-      "timeAgo": "3d ago"
     }
   ],
-  "totalCount": 69,
+  "totalCount": 73,
   "sources": [
     "Decrypt",
-    "Bitcoin Magazine",
     "CoinTelegraph",
-    "The Block",
     "CoinDesk",
+    "Bitcoin Magazine",
+    "The Block",
     "The Defiant"
   ],
-  "fetchedAt": "2026-01-12T15:08:17.956Z",
+  "fetchedAt": "2026-01-12T16:08:32.311Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -332,6 +332,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T15:08:11.000Z",
+  "cachedAt": "2026-01-12T16:08:26.000Z",
   "source": "failsafe-cache"
 }

@@ -1,6 +1,145 @@
 {
   "articles": [
     {
+      "title": "Strategy Spends $1.2 Billion on Bitcoin, Its Biggest BTC Buy Since July",
+      "link": "https://decrypt.co/354239/strategy-spends-1-2-billion-bitcoin-biggest-btc-buy-july",
+      "description": "Strategy notched its largest Bitcoin purchase in five months, following MSCI's decision to not exclude the company from its indices.",
+      "pubDate": "2026-01-12T15:48:02.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "20m ago"
+    },
+    {
+      "title": "BitMine adds 24,000 ether, but warns accumulation may slow without shareholder approval",
+      "link": "https://www.coindesk.com/business/2026/01/12/bitmine-adds-24-000-ether-but-warns-accumulation-may-slow-without-shareholder-approval",
+      "description": "The largest Ethereum-focused crypto treasury firm lifted holdings to 4.17 million ETH but signaled limits ahead without authorization to issue fresh equity.",
+      "pubDate": "2026-01-12T15:35:06.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "33m ago"
+    },
+    {
+      "title": "BitGo aims to raise $201 million in IPO targeting $1.85 billion valuation",
+      "link": "https://www.coindesk.com/business/2026/01/12/bitgo-aims-to-raise-usd201-million-in-ipo-targeting-usd1-85-billion-valuation",
+      "description": "The company has reported significant revenue growth and achieved profitability with $35.3 million in net income in the first nine months of 2025.",
+      "pubDate": "2026-01-12T15:31:36.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "36m ago"
+    },
+    {
+      "title": "Satoshi-Era Bitcoin Whale Moves $180M in BTC to Coinbase",
+      "link": "https://decrypt.co/354240/satoshi-era-bitcoin-whale-moves-180m-in-btc-to-coinbase",
+      "description": "This is the first time the coins have moved since the summer of 2010, sparking speculation on social media.",
+      "pubDate": "2026-01-12T15:30:38.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "37m ago"
+    },
+    {
+      "title": "Ethereum set for 95% copycat rally against Bitcoin",
+      "link": "<![CDATA[https://cointelegraph.com/news/ethereum-set-for-95-percent-copycat-rally-against-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "ETH price could rally 95% versus Bitcoin if a decisive breakout above the key 0.042 BTC neckline confirms a bullish reversal.",
+      "pubDate": "2026-01-12T15:24:28.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "44m ago"
+    },
+    {
+      "title": "Bitcoin's price hasn't peaked yet and its just a 'mid-cycle' correction, historical data shows",
+      "link": "https://www.coindesk.com/markets/2026/01/10/bitcoin-s-price-hasn-t-peaked-yet-and-its-just-a-mid-cycle-correction-historical-data-shows",
+      "description": "The current drawdown suggests a mid cycle correction rather than a historic cycle top.",
+      "pubDate": "2026-01-12T15:13:07.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Crypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO",
+      "link": "https://bitcoinmagazine.com/news/crypto-firm-bitgo-eyes-near-2b-valuation",
+      "description": "Bitcoin Magazine\n\nCrypto Firm BitGo Eyes Near $2 Billion Valuation in US IPO\nBitGo launched an IPO for 11.8 million Class A shares, priced $15–$17 each, with a 30-day option for 1.77 million additiona",
+      "pubDate": "2026-01-12T15:12:50.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "55m ago"
+    },
+    {
+      "title": "Ether to hit $40,000 by 2030 beating bitcoin, Standard Chartered says",
+      "link": "https://www.coindesk.com/markets/2026/01/12/standard-chartered-predicts-ether-will-outperform-bitcoin-hit-usd40-000-by-2030",
+      "description": "The bank sees ether benefiting from sector-specific tailwinds even as broader crypto momentum remains uneven.",
+      "pubDate": "2026-01-12T15:12:00.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "56m ago"
+    },
+    {
+      "title": "Buterin Calls for Ethereum Updates to Ensure Blockchain Outlasts Its Developers",
+      "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-proposes-walkaway-test-ethereum",
+      "pubDate": "2026-01-12T15:09:19.000Z",
+      "source": "The Defiant",
+      "sourceKey": "defiant",
+      "category": "defi",
+      "timeAgo": "59m ago"
+    },
+    {
+      "title": "Gold, Silver Hit New Highs as Bitcoin Trades Flat Ahead of Key Macroeconomic Events",
+      "link": "https://decrypt.co/354236/gold-silver-hit-new-highs-as-bitcoin-trades-flat-ahead-of-key-macroeconomic-events",
+      "description": "Precious metals hit new highs as political pressure on the Federal Reserve spurred a safe-haven rush ahead of critical U.S. inflation data.",
+      "pubDate": "2026-01-12T14:44:10.000Z",
+      "source": "Decrypt",
+      "sourceKey": "decrypt",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Strategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410",
+      "link": "https://bitcoinmagazine.com/featured/strategy-mstr-buys-13627-bitcoin",
+      "description": "Bitcoin Magazine\n\nStrategy ($MSTR) Just Spent $1.25 Billion on 13,627 Bitcoin, Pushing BTC Holdings to 687,410\nStrategy added 13,627 bitcoin for $1.25 billion last week, lifting its total holdings to ",
+      "pubDate": "2026-01-12T14:34:36.000Z",
+      "source": "Bitcoin Magazine",
+      "sourceKey": "bitcoinmagazine",
+      "category": "bitcoin",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Crypto custody company BitGo seeks up to $201 million in US IPO",
+      "link": "<![CDATA[https://cointelegraph.com/news/bitgo-custody-launches-ipo-201-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "BitGo is looking to raise as much as $201 million in an IPO, targeting a $1.96 billion valuation with over $90 billion in assets under custody and top US banks leading the deal.",
+      "pubDate": "2026-01-12T14:23:27.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "Strategy makes biggest Bitcoin purchase since July 2025, adds $1.25B in BTC",
+      "link": "<![CDATA[https://cointelegraph.com/news/strategy-adds-13627-bitcoin-1-25b-buy-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
+      "description": "Strategy added 13,627 Bitcoin in a $1.25 billion purchase last week, extending its lead as the world’s largest corporate BTC holder despite recent paper losses.",
+      "pubDate": "2026-01-12T14:14:41.000Z",
+      "source": "CoinTelegraph",
+      "sourceKey": "cointelegraph",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
+      "title": "CoinDesk 20 Performance Update: Solana (SOL) Gains 3.1% as Index Trades Flat",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/01/12/coindesk-20-performance-update-solana-sol-gains-3-1-as-index-trades-flat",
+      "description": "Ethereum (ETH) joined Solana (SOL) as a top performer, rising 0.9% over the weekend.",
+      "pubDate": "2026-01-12T14:12:43.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "1h ago"
+    },
+    {
       "title": "Charles Hoskinson doubts CLARITY Act timeline, says Trump crypto czar should quit",
       "link": "<![CDATA[https://cointelegraph.com/news/charles-hoskinson-doubts-clarity-act-urges-david-sacks-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
       "description": "Cardano founder Charles Hoskinson said the CLARITY Act may not pass this quarter, and criticized US crypto laws for favoring big banks over innovation.",
@@ -8,7 +147,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Bank of Italy models Ethereum risks if ETH value collapsed",
@@ -18,7 +157,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Standard Chartered said to plan crypto brokerage, trims ETH forecast",
@@ -28,7 +167,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Standard Chartered says &#8216;2026 will be the year of Ethereum&#8217; as bank backs ETH outperformance",
@@ -38,7 +177,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "XRP stays pinned near $2.05 as the range tightens into a make-or-break zone",
@@ -48,7 +187,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "Morning Minute: a16z Raises $15B, Targets AI &amp;#038; Crypto",
@@ -58,7 +197,17 @@
       "source": "Decrypt",
       "sourceKey": "decrypt",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
+    },
+    {
+      "title": "Vitalik Buterin lays out 'walkaway test' for a quantum safe Ethereum",
+      "link": "https://www.coindesk.com/tech/2026/01/12/vitalik-buterin-lays-out-walkaway-test-for-a-quantum-safe-ethereum",
+      "description": "Buterin emphasizes the importance of quantum resistance and scalability, aiming for the Ethereum blockchain to handle thousands of transactions per second.",
+      "pubDate": "2026-01-12T13:15:43.000Z",
+      "source": "CoinDesk",
+      "sourceKey": "coindesk",
+      "category": "general",
+      "timeAgo": "2h ago"
     },
     {
       "title": "Strategy makes largest bitcoin purchase since July, adds 13,627 BTC",
@@ -68,7 +217,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "1h ago"
+      "timeAgo": "2h ago"
     },
     {
       "title": "&#8216;Big orange&#8217;: Michael Saylor&#8217;s Strategy buys another 13,627 bitcoin for $1.25 billion following MSCI indexing decision",
@@ -78,7 +227,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Standard Chartered prepares crypto prime brokerage push: Bloomberg",
@@ -88,7 +237,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "VelaFi raises $20 million in Series B to expand stablecoin payments infrastructure",
@@ -98,7 +247,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -108,7 +257,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Tether freezes $182 million in USDT stablecoin across five Tron blockchain wallets",
@@ -118,7 +267,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "BNB slides to $900 as traders look to havens",
@@ -128,7 +277,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "What is Crypto.com?",
@@ -138,7 +287,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Quantum computing threatens the $2 trillion Bitcoin network. BTQ Technologies says it has a defense.",
@@ -148,7 +297,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Seventy economists urge EU to ‘let the public interest prevail’ on digital euro",
@@ -158,7 +307,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Bitcoin fails haven test as Justice Dept. subpoenas Powell: Crypto Daybook Americas",
@@ -168,7 +317,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "2h ago"
+      "timeAgo": "3h ago"
     },
     {
       "title": "Dubai free zone shifts crypto token vetting to licensed companies",
@@ -178,7 +327,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Vitalik Buterin outlines conditions for a self-sustaining, quantum-safe Ethereum",
@@ -188,7 +337,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bitcoin pares Powell-fueled spike as privacy coins outperform: Crypto Markets Today",
@@ -198,7 +347,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Weekly crypto ETP outflows reach $454 million as hopes for Fed easing dim: CoinShares",
@@ -208,7 +357,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Trove Markets&#8217; $11.5M token sale sparks backlash after last-minute changes spill into Polymarket bet",
@@ -218,7 +367,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "3h ago"
+      "timeAgo": "4h ago"
     },
     {
       "title": "Bernstein says window for crypto market structure bill is &#8216;here and now,&#8217; as concerns over stablecoin rewards remain key sticking point",
@@ -228,7 +377,7 @@
       "source": "The Block",
       "sourceKey": "theblock",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Crypto funds bleed $454M in outflows as Fed rate-cut hopes fade",
@@ -238,7 +387,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "UK lawmakers push to ban crypto political donations over foreign interference fears",
@@ -248,7 +397,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "OKX founder defends asset freezes after user admits buying KYC accounts",
@@ -258,7 +407,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "4h ago"
+      "timeAgo": "5h ago"
     },
     {
       "title": "Powell investigation may introduce ‘risk premia’ for Bitcoin: Analysts",
@@ -268,7 +417,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "U.S. inflation report, BNB Smart Chain’s hard fork: Crypto Week Ahead",
@@ -278,17 +427,17 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
-      "title": "Dubai bans privacy tokens, tightens stablecoin rules in crypto reset",
+      "title": "Dubai bans privacy token use on exchanges, tightens stablecoin rules in crypto reset",
       "link": "https://www.coindesk.com/policy/2026/01/12/dubai-bans-privacy-tokens-tightens-stablecoin-rules-in-crypto-reset",
       "description": "Dubai's financial regulator said privacy-focused assets are incompatible with global compliance norms as it moves to a firm-led token suitability model and sharper stablecoin classifications.",
       "pubDate": "2026-01-12T09:36:42.000Z",
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Veteran trader Peter Brandt hints at silver-like bull run in Monero",
@@ -298,7 +447,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Coinbase pushes back against banks to keep rewarding users for holding stablecoins",
@@ -308,7 +457,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Adam Back-backed Bitcoin treasury Future Holdings set for takeover by H100",
@@ -318,7 +467,7 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin treasury firms linked to Adam Back sign preliminary agreement to combine",
@@ -328,7 +477,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Bitcoin's early gains fade fast as prices fall back below $91,000",
@@ -338,7 +487,7 @@
       "source": "CoinDesk",
       "sourceKey": "coindesk",
       "category": "general",
-      "timeAgo": "5h ago"
+      "timeAgo": "6h ago"
     },
     {
       "title": "Stablecoins, sanctions and surveillance: Why 2025 reshaped crypto’s regulatory reality",
@@ -348,160 +497,10 @@
       "source": "CoinTelegraph",
       "sourceKey": "cointelegraph",
       "category": "general",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "Fed rate cuts under fire: 5 things to know in Bitcoin this week",
-      "link": "<![CDATA[https://cointelegraph.com/news/fed-rate-cuts-under-fire-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Bitcoin injected volatility as legal action against the Federal Reserve combined with market nerves over geopolitics at the start of a key week for inflation data.",
-      "pubDate": "2026-01-12T09:01:37.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
       "timeAgo": "6h ago"
-    },
-    {
-      "title": "SEC delays PENGU and T. Rowe crypto ETFs as Grayscale seeks options green light",
-      "link": "<![CDATA[https://cointelegraph.com/news/sec-delays-crypto-etf-decisions-pengu-t-rowe-grayscale-options?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The SEC delayed decisions on two crypto ETFs and opened public comments on options tied to a Grayscale multi-asset crypto fund.",
-      "pubDate": "2026-01-12T08:50:28.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "6h ago"
-    },
-    {
-      "title": "Tether freezes $182 million in USDT tied to five Tron addresses",
-      "link": "https://www.theblock.co/post/385051/tether-freezes-182-million-usdt?utm_source=rss&amp;utm_medium=rss",
-      "description": "Tether froze $182 million in USDT across five Tron wallets, highlighting enforcement as stablecoins dominate illicit crypto flows.",
-      "pubDate": "2026-01-12T08:06:21.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "South Korea proposes 5% limit for listed firms’ crypto exposure",
-      "link": "https://www.coindesk.com/markets/2026/01/12/south-korea-proposes-5-limit-for-listed-firms-crypto-exposure",
-      "description": "The proposed guidelines would allow eligible firms to invest in the top 20 cryptocurrencies by market value.",
-      "pubDate": "2026-01-12T07:15:54.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "7h ago"
-    },
-    {
-      "title": "Tether’s role in Venezuela, Iran highlights the duality of stablecoins",
-      "link": "<![CDATA[https://cointelegraph.com/news/tether-role-venezuela-iran-highlights-stablecoin-duality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The dual life of stablecoins: A lifeline for citizens and a tool for sanctioned entities involved in Venezuela and Iran's economic crises.",
-      "pubDate": "2026-01-12T06:20:54.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "Most US debanking cases stem from government pressure, report says",
-      "link": "<![CDATA[https://cointelegraph.com/news/cato-institute-government-pressure-debanking-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Cato Institute analyst Nicholas Anthony argues the US Congress needs to reform the Bank Secrecy Act, repeal confidentiality laws and end reputational risk regulation to address debanking.",
-      "pubDate": "2026-01-12T06:10:12.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "8h ago"
-    },
-    {
-      "title": "India tightens crypto rules to fight money laundering and terror funding",
-      "link": "https://www.coindesk.com/markets/2026/01/12/india-tightens-crypto-rules-to-fight-money-laundering-and-terror-funding",
-      "description": "India's financial intelligence agency has announced stricter identity verification measures for cryptocurrency exchanges to prevent money laundering and terror financing.",
-      "pubDate": "2026-01-12T06:00:11.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "South Korea to lift ban on corporate crypto investment: Report",
-      "link": "<![CDATA[https://cointelegraph.com/news/south-korea-ends-9-year-ban-on-corporate-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "South Korea’s FSC reportedly shared guidelines allowing listed companies to invest up to 5% of equity in the top 20 cryptocurrencies, ending a 2017 ban.",
-      "pubDate": "2026-01-12T05:59:47.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "Bitcoin, privacy coins rally as Trump-Powell conflict escalates",
-      "link": "https://www.theblock.co/post/385042/bitcoin-rally-powell-warning?utm_source=rss&amp;utm_medium=rss",
-      "description": "The rally came shortly after Powell said that the DOJ had threatened him with criminal charges over his June 2025 congressional testimony.",
-      "pubDate": "2026-01-12T05:51:55.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "South Korean authorities seek 5% cap on corporate crypto investments: report",
-      "link": "https://www.theblock.co/post/385040/south-korea-limit-corporate-crypto-investment?utm_source=rss&amp;utm_medium=rss",
-      "description": "South Korea's FSC is proposing a 5% cap on the share of a company's equity capital that can be allocated to digital asset investments.",
-      "pubDate": "2026-01-12T05:49:23.000Z",
-      "source": "The Block",
-      "sourceKey": "theblock",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "​​Top UK Labour lawmakers push to ban political donations made in crypto",
-      "link": "<![CDATA[https://cointelegraph.com/news/uk-lawmakers-push-ban-political-donations-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "The chairs of seven UK government committees have asked for a ban on crypto donations to be added to an elections bill set to be introduced soon.",
-      "pubDate": "2026-01-12T05:48:18.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "Bitcoin rises 1%, Nasdaq futures and dollar drop as Trump-Powell feud escalates",
-      "link": "https://www.coindesk.com/markets/2026/01/12/bitcoin-rises-1-nasdaq-futures-and-dollar-index-drop-as-trump-powell-fued-escalates",
-      "description": "Bitcoin's price movement diverged from the Nasdaq futures, which fell nearly 0.8%.",
-      "pubDate": "2026-01-12T05:16:10.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "Ethereum needs better decentralized stablecoins: Vitalik Buterin",
-      "link": "<![CDATA[https://cointelegraph.com/news/vitalik-buterin-calls-for-better-decentralized-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "It isn’t a good idea to fully back a stablecoin with a single fiat currency, because if that nation-state fails, so will the stablecoin, argues Ethereum co-founder Vitalik Buterin.",
-      "pubDate": "2026-01-12T05:09:46.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "9h ago"
-    },
-    {
-      "title": "Privacy tokens rally as XMR breaks all-time high",
-      "link": "https://www.coindesk.com/markets/2026/01/12/privacy-tokens-rally-as-xmr-breaks-all-time-high",
-      "description": "XMR, ZEC, SOL and other alts are rallying as BTC remains rangebound",
-      "pubDate": "2026-01-12T04:31:23.000Z",
-      "source": "CoinDesk",
-      "sourceKey": "coindesk",
-      "category": "general",
-      "timeAgo": "10h ago"
-    },
-    {
-      "title": "Crypto YouTube views sink to lowest level since early 2021, ‘it’s not just X'",
-      "link": "<![CDATA[https://cointelegraph.com/news/crypto-youtube-viewership-sinks-2021-lows-as-retail-interest-evaporates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound]]>",
-      "description": "Crypto content viewership on YouTube has plunged over the past three months, signaling bear market conditions as retail interest in crypto continues to decline.",
-      "pubDate": "2026-01-12T03:56:22.000Z",
-      "source": "CoinTelegraph",
-      "sourceKey": "cointelegraph",
-      "category": "general",
-      "timeAgo": "11h ago"
     }
   ],
-  "totalCount": 240,
+  "totalCount": 241,
   "sources": [
     "CoinDesk",
     "The Block",
@@ -511,7 +510,7 @@
     "Blockworks",
     "The Defiant"
   ],
-  "fetchedAt": "2026-01-12T15:08:17.460Z",
+  "fetchedAt": "2026-01-12T16:08:31.931Z",
   "lang": "en",
   "availableLanguages": [
     "en",
@@ -533,6 +532,6 @@
     "th",
     "id"
   ],
-  "cachedAt": "2026-01-12T15:08:11.000Z",
+  "cachedAt": "2026-01-12T16:08:26.000Z",
   "source": "failsafe-cache"
 }
